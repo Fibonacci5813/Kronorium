@@ -302,8 +302,13 @@
   ],
   "17": [
     {
+<<<<<<< HEAD
       "date": "29 de Junho 1945",
       "event": "Groph e Schuster desenvolvem a Wave Gun."
+=======
+      "date": "JUNE 29TH 1945",
+      "event": "Groph and Schuster develop the Wave Gun."
+>>>>>>> refs/remotes/dtzxporter/master
     },
     {
       "date": "15 de Julho, 1945",
@@ -946,18 +951,32 @@
       "event": "Finn, Sal e Billy atraem Al para o telhado e o matam."
     },
     {
+<<<<<<< HEAD
       "date": "MOB OF THE DEAD",
       "event": "Sal, Finn, Billy e Al lutam contra ondas de mortos-vivos enquanto se encontram presos em um ciclo aparentemente interminável."
     },
     {
       "date": "11 de janeiro, 1934",
       "event": "Chegando por uma fenda, Richtofen adquire as amostras de sangue de Sal e Finn."
+=======
+      "date": "JANUARY 11TH, 1934",
+      "event": "Stepping through a rift, Richtofen secures the blood samples of Sal and Finn."
+    },
+    {
+      "date": "JANUARY 19TH, 1934",
+      "event": "Found guilty of Al’s murder, Sal, Finn and Billy are executed by electric chair."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "60": [
     {
+<<<<<<< HEAD
       "date": "19 de janeiro, 1934",
       "event": "considerados culpados do assassinato de Al, Sal, Finn e Billy são executados na cadeira elétrica."
+=======
+      "date": "MOB OF THE DEAD",
+      "event": "Sal, Finn, Billy and Al battle waves of undead as they find themselves trapped in a seemingly endless cycle."
+>>>>>>> refs/remotes/dtzxporter/master
     },
     {
       "date": "16 de Abril, 1940",
@@ -1075,8 +1094,17 @@
   ],
   "68": [
     {
+<<<<<<< HEAD
       "date": "25 de Abril, 1944 - SHADOWS OF EVIL",
       "event": "Nero, Jack, Floyd e Jessica são atacados e deixados inconscientes no clube Blake Lake Burlesque. Eles acordam em uma versão distorcida de Morg City, ligeiramente diferente da realidade. Ao serem ditos pelo Shadowman que eles podem se livrar de seus pecados, todos os quatro são manipulados a realizar de rituais. Jessica sacrifica seu produtor, Jack sacrifica seu parceiro, Floyd sacrifica seu promotor, e Nero sacrifica seu advogado. Completando os rituais exigidos, os Apothicons têm acesso à Dimensão 63. Percebendo que foram enganados, os quatro trabalham ao lado dos Keepers para derrotar o Shadowman. Eles o prendem na Summoning Key, mas antes que eles possam entregá-lo aos Keepers, Primis Richtofen chega e a rouba. Richtofen viaja para Dimensão 2210 para adquirir uma alma inocente de si mesmo. Ele leva a alma até a Casa. De dentro da Summoning Key o Shadowman afirma, “Eu verei vocês novamente...”"
+=======
+      "date": "APRIL 25TH, 1944 - SHADOWS OF EVIL",
+      "event": "Nero, Jack, Floyd and Jessica are knocked unconscious at the Blake Lake Burlesque club. They wake up in a twisted version of Morg City, Shifted slightly from reality. Told they can atone for their sins by the Shadowman, all four are tricked into performing rituals. Jessica sacrifices her producer, Jake sacrifices his partner, Floyd sacrifices his promoter, and Nero sacrifices his lawyer. Completing the required rituals, the Apothicons are given access to Dimension 63. Realizing they’ve been duped, the four work with the Keepers to defeat the Shadowman. They trap him in the summoning key, but before they can hand it over to the Keepers, Primis Rictofen arrives and steals the key. Rictofen travels to Dimension 2210 to secure an innocent Rictofen soul. He delivers the soul to the House. From within the Summoning Key the Shadowman states, \"I’ll be seeing you…\""
+    },
+    {
+      "date": "APRIL 26TH, 1944",
+      "event": "The Apothicons destroy Dimension 63."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "69": [
@@ -1167,8 +1195,13 @@
       "event": "Richtofen recolhe as amostra de sangue de Victus do zumbi Richtofen."
     },
     {
+<<<<<<< HEAD
       "date": "A CHEGADA DE EDWARD",
       "event": "Richtofen recolhe a alma inocente de Eddie na Dimensão 2210 e Monty lhe-da uma forma física na Casa."
+=======
+      "date": "THE ARRIVAL OF EDWARD",
+      "event": "Richtofen collects Eddies innocent soul from Dimension 2210 and Monty gives him a physical form in the House."
+>>>>>>> refs/remotes/dtzxporter/master
     },
     {
       "date": "SAMANTHA CONHECE EDWARD",
@@ -1203,6 +1236,7 @@
       "event": ""
     },
     {
+<<<<<<< HEAD
       "date": " Fratura Proditione ",
       "event": ""
     },
@@ -1217,10 +1251,19 @@
     {
       "date": "5 de Novembro, 1942",
       "event": "Takeo é despachado pelo imperador para supervisionar o trabalho da divisão 9 na Ilha."
+=======
+      "date": "DECEPTIO FRACTURE",
+      "event": ""
+    },
+    {
+      "date": "OCTOBER 13TH, 1945 - THE GIANT",
+      "event": "As a zombie outbreak occurs, Primis Dempsey, Takeo and Nikolai confront Ultimis Richtofen moments after he teleports Maxis and Samantha. As they try to reason with him to wake their counterparts, Primis Richtofen arrives through the teleporter and kills his Ultimis self - triggering fractures across space-time. As Primis fights the undead, Group 935 secure the Dempsey subject and transport him to Der Eisendrache. Primis pursues them in a German Giant."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "77": [
     {
+<<<<<<< HEAD
       "date": "Fratura Agonia",
       "event": ""
     },
@@ -1235,10 +1278,31 @@
     {
       "date": "6 de Fevereiro, 1943",
       "event": "A Divisão 9 expande suas experiências para incluir o uso de prisioneiros de guerra, trabalhadores da Divisão 9, aracnídeos e “animais místicos”."
+=======
+      "date": "OCTOBER 29TH, 1945",
+      "event": "Doctor Groph takes control of Group 935 in Richtofen’s absence, not realizing his fate at the hands of Primis."
+    },
+    {
+      "date": "OCTOBER 31ST, 1945",
+      "event": "In the wake of haunted dreams and rumors that Samantha may be roaming Giffin Station, Groph worries the MPD may be corrupting the facility."
+    },
+    {
+      "date": "NOVEMBER 5TH, 1945 - DER EISENDRACHE",
+      "event": "Recovering the Dempsey test subject from a rocket bound for the moon, Richtofen secures his soul and reveals to primus his intention to set things right. Primis destroys Griffin Station and the Moon."
+    },
+    {
+      "date": "PRODITONE FRACTURE",
+      "event": ""
+    },
+    {
+      "date": "APRIL 12TH, 1942",
+      "event": "Overrun by the undead, the rising Sun Facility is lost."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "78": [
     {
+<<<<<<< HEAD
       "date": "13 de Fevereiro, 1943",
       "event": "Trabalhando com Maxis no Complexo Kino, Sophia revela que ela foi atacada pela Cobaia 26."
     },
@@ -1257,10 +1321,31 @@
     {
       "date": "16 de Novembro, 1943",
       "event": "SOPHIA confirma a existência do projeto Rasputin, o Russian Mangler."
+=======
+      "date": "JULY 8TH, 1942",
+      "event": "Division 9 begins construction of the Island Facility."
+    },
+    {
+      "date": "OCTOBER 9TH, 1942",
+      "event": "With construction complete, Division 9 continue their projects at the Island Facility."
+    },
+    {
+      "date": "NOVEMBER 5TH, 1942",
+      "event": "Takeo is dispatched by the Emperor to oversee the work of Division 9 at the Island Facility."
+    },
+    {
+      "date": "FEBRUARY 6TH, 1943",
+      "event": "Division 9 expands experimentation to include use of prisoners of war, Division 9 staff, arachnids and \"mystical beasts.\""
+    },
+    {
+      "date": "JUNE 15TH, 1943",
+      "event": "Takeo reports to the Emperor the work being done at the Island Facility is \"unacceptable.\""
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "79": [
     {
+<<<<<<< HEAD
       "date": "11 de Janeiro, 1944",
       "event": "SOPHIA confirma que o robô gigante russo parou o avanço alemão."
     },
@@ -1271,10 +1356,27 @@
     {
       "date": "4 de Abril, 1945",
       "event": "SOPHIA declara que a vitória na batalha de Stalingrado está se aproximando e que os Valkyrie Drones foram liberados para localizar quaisquer pontos de resistência e captura-los. Após a liberação de grandes concentrações do elemento 115 pelas forças alemãs, a cidade se torna amplamente povoada por mortos-vivos. Nikolai e seus companheiros continuam a lutar pelo que resta de Stalingrado."
+=======
+      "date": "JULY 24TH, 1943",
+      "event": "On the orders of the emperor Takeo is taken prisoner by Division 9. He is used as a test subject for their Organic Plant based experiments."
+    },
+    {
+      "date": "SEPTEMBER 13TH, 1945",
+      "event": "Cornelis attempts to send a transmission to Peter Mccain. Telling him to rendezvous at the abandoned Rising Sun facility."
+    },
+    {
+      "date": "OCTOBER 1ST, 1945 - ZETSUBOU NO SHIMA",
+      "event": "Primis secure Takeos soul after they help him commit Seppuku. Richtofen takes the crew to dimension 63 to collect \"their blood\". For the \"insurance policy\", they return to the island before traveling to their next destination."
+    },
+    {
+      "date": "OCTOBER 18TH, 1945",
+      "event": "Peter Mccain makes his jump into Shi No Numa as a temporal rift opens below him as a result of Primis Universe Fractures, the rift teleports him to Gorod Krovi."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "80": [
     {
+<<<<<<< HEAD
       "date": "24 de Julho, 1945",
       "event": "Por ordens do imperador, Takeo é feito prisioneiro pela divisão 9. Ele é usado como uma cobaia em suas experiências com plantas orgânicas."
     },
@@ -1285,10 +1387,27 @@
     {
       "date": "2 de Setembro, 1945",
       "event": "Harvey Yena relata que os dragões provaram ser benéficos para o esforço de guerra em stalingrado. Ele confirma que a pesquisa de Die Glocke continua a explorar o deslocamento de tempo e movimento em todas as dimensões."
+=======
+      "date": "AGONIA FRACTURE",
+      "event": ""
+    },
+    {
+      "date": "NOVEMBER 11TH, 1942",
+      "event": "Groph confirms that Division 9 has \"completed the resurrection of the ancient beasts for [the battle on the] eastern front.\" Reports suggest that the \"specimens... are still extremely dangerous... [but the German's] stalemate on the Eastern front with the Russians will soon come to an end\" thanks to their involvement."
+    },
+    {
+      "date": "JANUARY 3RD, 1943",
+      "event": "The Russians use stolen Group 935 research to create the Russian Gigant, the Russian Mangler and the Ray Gun Mark 3."
+    },
+    {
+      "date": "FEBRUARY 2ND, 1943",
+      "event": "The Battle of Stalingrad doesn’t end. Thanks to technological advancements on both sides, World War 2 continues indefinitely."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "81": [
     {
+<<<<<<< HEAD
       "date": "13 de Setembro, 1945",
       "event": "Cornelius tenta enviar uma transmissão para Peter Mccain, dizendo-lhe para ir ao ponto de encontro no Complexo do Sol Nascente."
     },
@@ -1299,10 +1418,31 @@
     {
       "date": "9 de Outubro, 1945",
       "event": "Com a sua construção completa, Divisão 9 continua seus projetos na base da Ilha."
+=======
+      "date": "FEBRUARY 13TH, 1943",
+      "event": "Working with Maxis at the Kino facility, Sophia reveals she was attacked by Subject Two-Six."
+    },
+    {
+      "date": "FEBRUARY 14TH, 1943",
+      "event": "Having learned Sophia was attacked by Subject Two-Six, Maxis kills her and transfers her brain into a machine, the Strategic Operation Planning Heuristic Intelligence Analyzer (SOPHIA)."
+    },
+    {
+      "date": "JULY 7TH, 1943",
+      "event": "SOPHIA is transferred to Stalingrad to oversee Group 935’s operations."
+    },
+    {
+      "date": "SEPTEMBER 2ND, 1943",
+      "event": "Harvey Yena reports the dragons have proven beneficial the war effort at Stalingrad. Heconfirms that Die Glocke research continues to explore \"time displacement\" and \"movement across dimensions.\""
+    },
+    {
+      "date": "NOVEMBER 6TH, 1943",
+      "event": "SOPHIA confirms the existence of Project Rasputin, the Russian Mangler Soldier."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "82": [
     {
+<<<<<<< HEAD
       "date": "18 de Outubro, 1945 - ZETSUBOU NO SHIMA",
       "event": "Primis se apodera da alma de Takeo depois de ajudá-lo a cometer Seppuku. Richtofen leva a equipe para a dimensão 63 para recolher o sangue como uma apólice de seguro. eles retornam à ilha antes de viajar para o seu próximo destino."
     },
@@ -1313,10 +1453,23 @@
     {
       "date": "29 de Outubro, 1945",
       "event": "Dr. Groph toma o controle do grupo 935 na ausência de Richtofen, sem saber que ele foi morto pelas mãos de Primis."
+=======
+      "date": "JANUARY 11TH, 1944",
+      "event": "SOPHIA confirms the Russian Gigant Robot has set back the German advance."
+    },
+    {
+      "date": "APRIL 14TH, 1945",
+      "event": "SOPHIA declares the Battle of Stalingrad is nearing victory for German Forces and that Valkyrie Drones have been deployed to locate \"any resistance strains and attempt capture.\" After the release of large concentrations of Element 115 by German forces, the city becomes largely populated by the undead. Nikolai and his comrades continue to fight for what remains of Stalingrad."
+    },
+    {
+      "date": "SEPTEMBER 2ND, 1945",
+      "event": "WW2 still rages on. Stalingrad has turned into a three-way conflict between Dragon, machine and the undead. Without any remaining human survivors, SOPHIA is now trapped in the city."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "83": [
     {
+<<<<<<< HEAD
       "date": "31 de Outubro, 1945",
       "event": "Resultado de pesadelos e rumores de que Samantha pode estar vagando  a Griffin Station, Groph passa a acreditar que o MPD pode estar corrompendo a estação."
     },
@@ -1337,31 +1490,43 @@
     {
       "date": "25 de Abril, 1953",
       "event": "Enquanto viajavam para Shangri La, o avião de Brock e Gary cai nas montanhas como resultado de um evento atmosférico anormal. Outro efeito secundário de fendas temporais criado por Primis enquanto viajavam para Gorod Krovi."
+=======
+      "date": "NOVEMBER 6TH, 1945",
+      "event": "Drifting through space and time in his ethereal form, Gersh arrives in the fracture."
+    },
+    {
+      "date": "NOVEMBER 6TH, 1945 - GOROD KROVI",
+      "event": "Primis arrives and frees Sophia and acquires Nikolais soul. Richtofen teleports the soul. Richtofen teleports the souls of Dempsey, Takeo, and Nikolai to Maxis at the house. Monty announces his existence to primis for the first time."
+>>>>>>> refs/remotes/dtzxporter/master
     },
     {
       "date": "6 de Novembro, 1963",
       "event": "Escondido em um armário no Pentágono, Mcnamara registra uma mensagem confirmando que John F. Kennedy, Richard Nixon e Fidel Castro morreram como resultado de um surto de zumbis. Ele morre momentos depois."
     }
   ],
-  "85": [
+  "84": [
     {
       "date": "TANK DEMPSEY - ULTIMIS",
       "event": "Tank Dempsey: Herói americano. Entregue-lhe uma arma carregada, uma boa mulher, e algo para atirar e ele está feliz. Enfureça-o e ele rasgará suas entranhas para fora e usará elas como bandoleira. Dempsey foi selecionado para esta missão depois que ele mostrou sua capacidade durante a Batalha de Peleliu. Por mais notável que possa parecer, sua unidade foi capturada durante os primeiros ataques antes da invasão principal, e ele passou 2 semanas em uma gaiola de bambu infestada de ratos, submersa em água infectada com malária. Bem, isso não parou o “Tanque”. Depois de roer o seu caminho através da gaiola, ele então roeu seu caminho através de seus captores armado apenas com um alfinete e sua Medalha de Honra, que ele mantém escondido em várias cavidades do corpo. Agora você sabe que não há nada antes da guerra para Dempsey, e não há nada depois. Existe apenas a lenda de Tank Dempsey, e de como ele vai ganhar a guerra por todos nós."
     }
   ],
-  "86": [
+  "85": [
     {
       "date": "EDWARD RICHTOFEN - ULTIMIS",
+<<<<<<< HEAD
       "event": "”Cuidado com o doutor” Uma mensagem que foi rabiscada através das paredes de todas as cidades sob o controle alemão. A fome pode aleijar você, a disenteria pode destruir você, e tiros podem rasgar a carne de seus ossos, mas “Cuidado com o médico”. Richtofen, conhecido afetuosamente como “O Carniceiro” por suas vítimas, que gritam em agonia momentos antes dele retirar a luz de suas vidas .Toda a sua carreira, Richtofen tem estado na vanguarda do desenvolvimento de técnicas de extracção de informação e tortura. Richtofen é um sociopata incurável e não vê nenhuma distinção moral entre a morte natural e assassinato, a vítima é a vítima, independentemente de como sua morte se manifesta. O Doutor Richtofen tem uma coleção de bichos de pelúcia, a maioria deles posta em posições de terror, assim como no instante de sua morte."
+=======
+      "event": "\"Beware The Doc\". A message that was scrawled across walls of every town under Maxis' control. Starvation may cripple you, dysentery may wreck you, and gunfire may rip the flesh from your bones, but \"Beware the Doctor\". This is Dr. Richtofen, known affectionately as \"The Butcher\" to his victims as they scream in agony moments before he snuffs out their light. All through his career, Richtofen has been at the forefront of torture and information extraction research. Richtofen is an incurable sociopath and sees no moral distinction between natural death and murder; the victim is the victim, regardless of how their demise manifests itself. Doctor Richtofen has a collection of stuffed animals, most of them posed in positions of terror at the instant of their death."
+>>>>>>> refs/remotes/dtzxporter/master
     }
   ],
-  "87": [
+  "86": [
     {
       "date": "NIKOLAI BELINSKI - ULTIMIS",
       "event": "O próprio Stalin não consegue olhar Nikolai nos olhos, ninguém pode. Nos seus olhos, você verá a alma de um homem ardendo com o ódio de todas as coisas vivas. Seu armário está cheio de esqueletos, muitos deles com a carne ainda presa. No início de sua carreira, Nikolai rapidamente subiu pelas fileiras do partido matando o próximo homem na linha e casando-se politicamente. Em última instância, todas as suas aspirações caíram quando a sua quinta esposa morreu misteriosamente enquanto “limpava o machado com o pescoço”. Mal sabia ele que ela estava dormindo com um alto funcionário do partido. Isso fez Nikolai infame, e sua reputação se espalhou rapidamente pelo partido comunista. Não demorou muito para que Stalin tivesse ouvido falar de Nikolai. Mais importante ainda, sentisse medo de Nikolai. Assim que a guerra começou, nosso herói foi colocado na linha de frente e esquecido, onde ele se afundou na depressão e na vodka por vários anos. Há muitas armas em seu arsenal, nenhuma mais poderosa que seu hálito."
     }
   ],
-  "88": [
+  "87": [
     {
       "date": "TAKEO MASAKI - ULTIMIS",
       "event": "Conheça Takeo, para quem a vida não tem sentido se não para aperfeiçoar a sua disciplina e revelar seu verdadeiro caráter e honra. Talvez ele pense nesta e outras questões filosóficas enquanto sua Katana fatia através da carne e tendão de seu inimigo. Nosso herói nasceu em riqueza; Sua dinastia familiar remonta vários séculos, e durante todo esse tempo eles foram Samurais e Bushidos altamente decorados. Takeo não é exceção a esta celebrada linhagem. Sua família já sabia do futuro pródigo de seu filho quando o viu pela primeira aos 5 anos de idade, brincando na rua com sua Katana e cortando as caudas de gatinhos aterrorizados. Era óbvio que ele estava destinado a trazer honra ao nome Masaki. Reservado e reflexivo, a guerra é uma oportunidade perfeita para Takeo explorar seu desejo de sangue e estudar a natureza daqueles menos honrados do que ele. Então se você for vítima de sua ação rápida, saiba que você ajudou um homem melhor do que você a alcançar iluminação."
