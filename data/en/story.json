@@ -1,102 +1,102 @@
 {
-	  "0": [
-	    {
-	      "date": "No Início",
-	      "event": "Havia apenas o Aether e os Keepers. Entre eles existiam dois seres que futuramente seriam conhecidos por muitos nomes. Um seria chamado de Doutor Monty, e o outro, de Shadowman."
-	    },
+  "0": [
     {
-      "date": "3 de Setembro, 5 A.D",
-      "event": "Sabendo que o planeta possui um portal para Agartha, os Apothicons enviam meteoros contendo Elemento 115 para a Terra. Eles acreditam que a humanidade um dia usará o Elemento 115 para travar uma guerra entre si, abrindo uma fenda que os permitirá escapar do Dark Aether."
+      "date": "IN THE BEGINNING",
+      "event": "There was only the Aether and the Keepers. Among them were two beings who would later be known by many names. One would be known as Doctor Monty, the other as the Shadowman"
     },
     {
-      "date": "15 de Janeiro, 1292",
-      "event": "A Grande Guerra entre a humanidade e os Apothicons começa."
+      "date": "SEPTEMBER 3RD, 5AD",
+      "event": "Knowing the planet has a gateway to Agartha, the Apothicons send meteors of Element 115 to Earth. They believe humanity will one day use Element 115 to wage war amongst themselves, opening a rift that will allow the Apothicons to escape the Dark Aether."
     },
     {
-      "date": "14 de Abril, 1294",
-      "event": "Sir Pablo Marinus é salvo das garras de um Margwa por quatro heróis desconhecidos. Mais tarde eles seriam conhecidos como Primis."
+      "date": "JANUARY 15TH, 1292",
+      "event": "The Great War between humanity and the Apothicons begins."
+    },
+    {
+      "date": "APRIL 14TH, 1294",
+      "event": "Sir Pablo Marinus is saved from the clutches of a Margwa by the four unknown heroes. They would later become known as Primis."
     }
   ],
   "1": [
     {
-      "date": "31 de dezembro, 1299",
-      "event": "Juntamente com os Keepers, Primis derrota os Apothicons, trazendo um fim a  Grande Guerra ."
+      "date": "DECEMBER 31ST, 1299",
+      "event": "Together with the Keepers, Primis defeats the Apothicons, bringing the Great War to an end."
     },
     {
-      "date": "1 de Janeiro, 1300",
-      "event": "Antes de desaparecerem da história, Primis instrui o Rei Lobo a construir Der Eisendrache."
+      "date": "JANUARY 1ST, 1300",
+      "event": "Before they seemingly disappear from history, Primis instructs the Wolf King to begin building Der Eisendrache."
     },
     {
-      "date": "19 de Setembro, 1318",
-      "event": "Honrando o pedido de morte do Rei Lobo, seu leal servo Arthur espalha e enterra seus ossos em Der Eisendrache, acompanhado pelo Lobo do Rei."
+      "date": "SEPTEMBER 19TH, 1318",
+      "event": "Honoring the Wolf King's dying request, his loyal servant Arthur scatters and buries his bones in the grounds of Der Eisendrache, accompanied by the King's Wolf."
     },
     {
-      "date": "20 de Setembro, 1318",
-      "event": "Fendas temporais teletransportam Arthur para Resolução 1295 em Angola, 2025."
+      "date": "SEPTEMBER 20th, 1318",
+      "event": "Temporal Rifts teleport Arthur to Resolution 1295 in 2025 Angola."
     },
     {
-      "date": "30 de junho, 1908",
-      "event": "Um meteoro contendo Elemento 115 cai perto do Rio Tunguska."
+      "date": "JUNE 30TH, 1908",
+      "event": "A meteor containing Element 115 crashes near the Stony Tunguska River."
     }
   ],
   "2": [
     {
-      "date": "30 de Agosto, 1925",
-      "event": "Doutor Edward Richtofen se junta aos Illuminati."
+      "date": "AUGUST 30TH, 1925",
+      "event": "Doctor Edward Richtofen joins the Illuminati."
     },
     {
-      "date": "4 de Fevereiro, 1931",
-      "event": "Grandes depósitos de Elemento 115 são descobertos perto de Breslau na Alemanha. O doutor Ludvig Maxis, cientista alemão, é enviado para investigar."
+      "date": "FEBRUARY 4TH, 1931",
+      "event": "Large deposits of Element 115 are discovered near Breslau Germany. Doctor Ludvig Maxis, a german scientist, is sent to investigate."
     },
     {
-      "date": "10 de Maio, 1931",
-      "event": "Maxis forma o Grupo 935, uma organização dedicada ao estudo do Elemento 115. Maxis diz a seus cientistas que eles “representam o futuro do avanço tecnológico” e serão “pioneiros da descoberta humana”. O grupo jura trabalhar em segredo de seus respectivos governos. Nas palavras de Maxis, “não podemos permitir que esse poder caia em mãos erradas.”"
+      "date": "MAY 10TH, 1931",
+      "event": "Maxis forms Group 935, an experimental organization dedicated to the study of Element 115. Maxis tells his scientists they \"represent the future of technological advancement\" and will be \"pioneers of human discovery.\" The group swears to work in secrecy from their respective governments. As Maxis says, \"we cannot afford to let this power fall into the wrong hands.\""
     },
     {
-      "date": "5 de Novembro, 1934",
-      "event": "Samantha Maxis nasce. Sua mãe morre ao dar a luz."
+      "date": "NOVEMBER 5TH, 1934",
+      "event": "Samantha Maxis is born. Her mother dies in childbirth."
     }
   ],
   "3": [
     {
-      "date": "11 de Agosto, 1936",
-      "event": "Maxis convida Richtofen a juntar-se ao Grupo 935. Ele concorda, atuando secretamente em nome dos Illuminati."
+      "date": "AUGUST 11TH, 1936",
+      "event": "Maxis invites Richtofen to join Group 935. He agrees, secretly acting on behalf of the Illuminati’s interests."
     },
     {
-      "date": "10 de Abril, 1937",
-      "event": "O exército imperial japonês descobre fragmentos de um meteoro contendo Elemento 115 em um pântano dentro do território japonês. Eles constroem o Complexo do Sol Nascente para continuar a pesquisa. A Divisão 9 é criada para supervisionar a operação."
+      "date": "APRIL 10TH, 1937",
+      "event": "The Imperial Japanese Army discovers Element 115 meteor fragments in a swamp within Japanese territories. They build the Rising Sun Facility to continue research. Division 9 is created to oversee its operation."
     },
     {
-      "date": "14 de Junho, 1937",
-      "event": "O Governo dos Estados Unidos descobre depósitos de Elemento 115 em Groom Lake, Nevada."
+      "date": "JUNE 14TH, 1937",
+      "event": "The United States Government discovers deposits of Element 115 at Groom Lake, Nevada."
     },
     {
-      "date": "2 de Julho, 1939",
-      "event": "Maxis e Richtofen iniciam experiências de teletransporte com o Protótipo de Transferência de Matéria, com pouco sucesso. a cobaia é teletransportada, mas sua composição química é alterada, deixando-o catatônico e alterado."
+      "date": "JULY 2ND, 1939",
+      "event": "Maxis and Richtofen begin teleportation experiments with the Matter Transference Prototype, to mild success. The subjects are teleported, but their chemical composition is altered, leaving them catatonic and changed."
     }
   ],
   "4": [
     {
-      "date": "5 de Agosto, 1939",
-      "event": " Pela primeira vez, usando o Elemento 115, Maxis e Richtofen ressuscitam um dos cadáveres teleportados. Inicialmente ele obedece, mas logo se torna raivoso e os ataca. A cobaia é eutanizada."
+      "date": "AUGUST 5TH, 1939",
+      "event": "Using Element 115, Maxis and Richtofen resurrect one of the teleported corpses for the first time. Initially it obeys, but soon becomes rabid and attacks them. The test subject is euthanized."
     },
     {
-      "date": "3 de Setembro, 1939",
-      "event": "Richtofen inicia o desenvolvimento da Wunderwaffe DG-2."
+      "date": "SEPTEMBER 3RD, 1939",
+      "event": "Richtofen begins development of the Wunderwaffe DG-2."
     },
     {
-      "date": "23 de Novembro 1939",
-      "event": "Maxis procura o governo alemão para angariar fundos. A Alemanha concorda em financiar o grupo, manifestando interesse em sua pesquisa com armas, tecnologia de teletransporte e as cobaias reanimadas."
+      "date": "NOVEMBER 23RD, 1939",
+      "event": "Maxis turns to the Reichstag for additional fundraising. Germany agrees to the request, expressing interest in their weapons research, teleportation technology, and the reanimated undead subjects."
     }
-    ],
-  "5": [	
+  ],
+  "5": [
     {
-      "date": "4 de Dezembro, 1939",
-      "event": "Durante o teste 151, Richtofen e Doutor Schuster teleportam com sucesso uma noz. Este é o primeiro teste com sucesso, onde a composição química do objeto é mantida durante o processo."
+      "date": "DECEMBER 4TH, 1939",
+      "event": "During Test Trial 151, Richtofen and Doctor Schuster successfully teleport a walnut. This is first successful test where the chemical composition of the object is maintained throughout the process."
     },
     {
-      "date": "5 de Dezembro, 1939",
-      "event":"O experimento com nozes de Richtofen não impressiona Maxis, que declara o uma perda de tempo. Ele revela a Richtofen que o grupo 935 será financiado no futuro pela Alemanha. Richtofen fica com receio que isso levara a deserções em massa. Ele e Schuster decidem continuar seus experimentos de teletransporte pelas costas de Maxis ."
+      "date": "DECEMBER 5TH, 1939",
+      "event": "\"Edward’s Walnut Delivery\" fails to impress Maxis, who declares it was a waste of time. He reveals to Richtofen that Group 935 will soon be funded by Germany. Richtofen worries this will lead to massive defections, he and Schuster decide to continue their teleportation experiments behind Maxis’ back."
     },
     {
       "img": "<div class='center-img'><img style='width: 205px;height: 152px;' src='images/content/walnut.png'></div>"
@@ -104,989 +104,993 @@
   ],
   "6": [
     {
-      "date": "4 de janeiro, 1940",
-      "event": "Richtofen e Schuster conduzem seu primeiro teste de teletransporte humano. Estando confiante em seu succeso, Richtofen se voluntaria para ser o primeiro. Teletransportado para a Lua, ele encontra o MPD, a Pirâmide de Aether escondida pelos Apothicons. Ao inspecionar o dispositivo, Richtofen é eletrocutado e começa a ouvir as vozes da corrupção, incluindo a do Shadowman. O dispositivo então o teletransporta para Shangri-La. Corrompido pelo Dark Aether, Richtofen está gradualmente se tornando obcecado em encontrar Agartha."
+      "date": "JANUARY 4TH, 1940",
+      "event": "Richtofen and Schuster conduct their first human teleportation test Richtofen is so confident in its success, he volunteers the MPD, the Aether Pyramid hidden by the Apothicons. While inspecting the device Richtofen is electrocuted and begins hearing the many voices of corruption including that of the Shadowman. The device then teleports him to Shangri-La. Corrupted by the Dark Aether, Richtofen is gradually being driven insane by an obsession find Agartha."
     },
     {
-      "date": "5 de Janeiro, 1940",
-      "event": "Richtofen é venerado pelos nativos de Shangri-La: um altar é construído em seu nome. Richtofen encontra a Focusing stone pela primeira vez."
+      "date": "JANUARY 5TH, 1940",
+      "event": "Richtofen is worshipped by the natives of Shangri-La: an altar is built in his name. Richtofen encounters the Focusing Stone for the first time."
     },
     {
-      "date": "23 de Janeiro, 1940",
-      "event": "Após quase um mês ausente, Richtofen retorna a Schuster com um plano para construir Griffin Station."
+      "date": "JANUARY 23TH, 1940",
+      "event": "After a near month absence Richtofen returns to Schuster with a plan to build Griffin Station."
     }
   ],
   "7": [
     {
-      "date": "24 de Janeiro, 1940",
-      "event": "Richtofen renuncia ao seu envolvimento com os Illuminati. Quando perguntado como ele poderia abandonar sua obrigação com a ordem, ele diz: “Teddy era um mentiroso”."
+      "date": "JANUARY 24TH, 1940",
+      "event": "Richtofen renounces his involvement with the Illuminati. When asked how he could abandon his obligation to the order he says, \"Teddy was a liar.\""
     },
     {
-      "date": "13 de Março, 1940",
-      "event": "A construção da Griffin Station na lua começa. Frustrados com a associação de Maxis com a Alemanha, outros cientistas do Grupo 935 se juntam à causa de Richtofen."
+      "date": "MARCH 13TH, 1940",
+      "event": "Construction of Griffin Station on the Moon begins. Frustrated with Maxis’ alignment with Germany, other disgruntled Group 935 scientists join the cause."
     },
     {
-      "date": "13 de Julho, 1940",
-      "event": "Maxis instrui sua assistente Sophia a escrever uma carta ao Alto Comando do Governo Alemão solicitando fundos adicionais. Embora ele relate que a produção em massa em breve estará em andamento, Der Riese tem falta não apenas de financiamento, mas de volumes suficientes do Elemento 115."
+      "date": "JULY 13TH, 1940",
+      "event": "Maxis instructs his assistant Sophia to write a letter to the Reichstag High Command requesting additional funds. Though he reports that mass production will soon be under way shortly, Der Reise lacks not only the funding, but sufficient volumes of Element 115."
     },
     {
-      "date": "1 de Agosto, 1940",
-      "event": "Em resposta ao pedido de Maxis, a Alemanha cria duas novas instalações para o Grupo 935. O Complexo Kino, um teatro reutilizado, e o Complexo Asylum no sanatório Wittenau em Berlin."
+      "date": "AUGUST 1ST, 1940",
+      "event": "In response to Maxis’ request, Germany creates two new facilities for Group 935. They are the Kino Facility, a repurposed theatre, and the Asylum Facility at the Wittenau Sanatorium in Berlin."
     }
   ],
   "8": [
     {
-      "date": "18 de Agosto, 1940",
-      "event": "Em acordo com a Alemanha, o Exército Imperial Japonês entrega o Complexo do Sol Nascente ao Grupo 935. A Divisão 9 permanece envolvida no local."
+      "date": "AUGUST 18TH, 1940",
+      "event": "As per Germany’s request, the Japanese Imperial Army hands over the Rising Sun Facility to Group 935. Division 9 remains involved on site."
     },
     {
-      "date": "3 de Outubro, 1940",
-      "event": "O Grupo 935 estabelece um centro de pesquisa na Sibéria perto do rio Tunguska."
+      "date": "OCTOBER 3RD, 1940",
+      "event": "Group 935 establishes a research facility in Siberia near the Tunguska River."
     },
     {
-      "date": "24 de Junho, 1941",
-      "event": "A esposa de Nikolai Belinski é morta durante o avanço alemão na União Soviética. Em um esforço para amenizar a dor, Nikolai se entrega a Vodka."
+      "date": "NOVEMBER 6TH, 1940",
+      "event": "Group 935 establishes a research facility at Der Eisendrache."
     },
     {
-      "date": "11 de Janeiro, 1942",
-      "event": "Maxis dá Fluffy a Samantha. O cão está esperando um filhote."
+      "date": "JUNE 24TH, 1941",
+      "event": "Nikolai Belinski’s wife is killed during the German advance into the Soviet Union. In an effort to numb the pain, Nikolai increasingly turns to Vodka."
     },
     {
-      "date": "20 de Janeiro 1942",
-      "event": "Maxis testa o primeiro arquivo que será armazenado no servidor de dados."
+      "date": "JANUARY 11TH 1942",
+      "event": "Maxis gives Fluffy to Samantha. The dog is expecting a litter."
     }
   ],
   "9": [
     {
-      "date": "26 de Janeiro, 1942",
-      "event": "No servidor de dados, Maxis cataloga as localizações com prováveis depósitos de Elemento 115. Ele inclui informações sobre suas várias aplicações e as cidades em que a reanimação de células mortas é um possível efeito colateral."
+      "date": "JANUARY 20TH 1942",
+      "event": "Maxis tests the first file for storage on the data servant."
     },
     {
-      "date": "30 de Janeiro, 1942",
-      "event": "Richtofen completa o protótipo da Wunderwaffe DG-2."
+      "date": "JANUARY 26TH 1942",
+      "event": "On the data servant, Maxis catalogs locations with prominent Element 115 deposits. He includes information about its various applications and cities that the reanimation of dead cells is a possible side effect."
     },
     {
-      "date": "1 de Fevereiro, 1942",
-      "event": "Com a Griffin Station completada, Richtofen nomeia Dr. Groph como cientista líder e retorna à Terra para continuar a disputa com Maxis. Trabalhando ao lado de Schuster, Groph é deixado para descobrir o poder do MPD."
+      "date": "JANUARY 30TH 1942",
+      "event": "Richtofen completes the Wunderwaffe DG-2 prototype."
     },
     {
-      "date": "2 de Fevereiro, 1942",
-      "event": "Em um discurso a sua equipe,Dr. Groph fala otimista sobre a construção da Griffin Station, e o seu futuro como uma base permanente de operações."
+      "date": "FEBRUARY 1ST 1942",
+      "event": "With Griffin Station completed Richtofen names Doctor Groph lead scientist and returns to Earth to continue the charade with Maxis. Working alongside Schuster Groph is left to discover the power of the MPD."
     }
   ],
   "10": [
     {
-      "date": "17 de Abril, 1942",
-      "event": "Maxis desenvolve o protótipo da Ray Gun no Complexo do Sol Nascente. H. Porter trabalha no desenvolvimento da 2ª Geração do modelo."
+      "date": "FEBRUARY 2ND 1942",
+      "event": "In a speech to his staff, Groph talks optimistically about Griffin Station’s establishment as a permanent base of operations."
     },
     {
-      "date": "13 de Junho, 1942",
-      "event": "Como resultado de fendas temporais em Kino,1963, Monty atravessa o tempo e oferece pequenos “empurrões” ao grupo 935. Um deles é o desenvolvimento de elixires baseados no Elemento 115. Eles criam quatro bebidas medicinais conhecidas coloquialmente como Juggernog, Quick Revive, Speed Cola e Double Tap."
+      "date": "APRIL 17TH 1942",
+      "event": "Maxis develops the Ray Gun prototype at the Rising Sun Facility. H. Porter works on developing the 2nd Generation Model."
     },
     {
-      "date": "28 de Junho, 1942",
-      "event": "Grupo 935 continua o desenvolvimento de uma máquina para aprimorar armamentos."
+      "date": "JUNE 13TH 1942",
+      "event": "A result of temporal rifts in 1963 Kino, Monty reaches across time and offers little nudges. One nudge is developing Group 935’s Element 115 fused elixirs. They create four medicinal beverages known colloquially as Juggernog, Quick Revive, Speed Cola, and Double Tap."
+    },
+    {
+      "date": "JUNE 28TH 1942",
+      "event": "Group 935 continues development of a weapons upgrade machine."
     }
   ],
   "11": [
     {
-      "date": "18 de Julho, 1942",
-      "event": "Groph e Schuster acidentalmente descobrem como carregar o MPD. Quando Schuster mata um rato perto do dispositivo, a sua morte inexplicavelmente começa a encher o tanque, carregando a piramide. Eles relatam suas descobertas para Richtofen."
+      "date": "JULY 18TH 1942",
+      "event": "Groph and Schuster unwittingly discover how to charge the MPD. When Schuster killas a rat near the device, its death inexplicably begins filling the tank, charging the device. They report their findings to Richtofen."
     },
     {
-      "date": "20 de Julho, 1942",
-      "event": "Richtofen começa a enviar soldados e cientistas para a lua para serem sacrificados; Suas almas usadas para carregar o MPD."
+      "date": "JULY 20TH 1942",
+      "event": "Richtofen begins sending soldiers and scientists to the moon to be sacrificed; their souls used to charge the MPD."
     },
     {
-      "date": "5 de Novembro, 1942",
-      "event": "Takeo Masaki é despachado pelo Imperador para supervisionar o trabalho do Grupo 935 e da Divisão 9 no Complexo do Sol Nascente."
+      "date": "NOVEMBER 5TH 1942",
+      "event": "Takeo Masaki is dispatched by the Emperor to oversee the work of Group 935 and Division 9 at the Rising Sun Facility."
     },
     {
-      "date": "8 de Dezembro, 1942",
-      "event": "Richtofen compartilha as receitas dos elixires baseados no Elemento 115 com a Griffin Station. Eles desenvolvem Mule Kick."
+      "date": "DECEMBER 8TH 1942",
+      "event": "Richtofen shares the Element 115-based Elixir Recipes with Griffin Station. They develop Mule Kick."
     }
   ],
   "12": [
     {
-      "date": "9 de Dezembro, 1942",
-      "event": "O irmão de Nikolai e morto na Batalha de Stalingrado."
+      "date": "DECEMBER 9TH 1942",
+      "event": "Nikolai’s brother is killed in the Battle of Stalingrad."
     },
     {
-      "date": "14 de Dezembro, 1942",
-      "event": "Richtofen desenvolve o Monkey Bomb."
+      "date": "DECEMBER 14TH 1942",
+      "event": "Richtofen creates the Monkey Bomb."
     },
     {
-      "date": "16 de Dezembro, 1942",
-      "event": "Em um diário pessoal, Maxis expressa preocupação com o impacto do Elemento 115 no comportamento de Richtofen. Não mais confiando nele, ele se pergunta se foi um erro convidá-lo para o Grupo 935."
+      "date": "DECEMBER 16TH 1942",
+      "event": "In a personal log, Maxis expresses concern over Element 115’s impact on Richtofen’s behavior. No longer trusting him, he wonders if it was a mistake to invite him to Group 935."
     },
     {
-      "date": "20 de Dezembro, 1942",
-      "event": "Acompanhado por Sophia, Maxis é transferido para o Complexo Kino para se concentrar na criação do exército de mortos-vivos da Alemanha. Samantha é deixada aos cuidados de Richtofen."
+      "date": "DECEMBER 20TH 1942",
+      "event": "Accompanied by Sophia, Maxis is transferred to the Kino facility to focus on creating Germany’s undead army. Samantha is left in Richtofen’s care."
     },
     {
-      "date": "9 de Janeiro 1943",
-      "event": "Maxis teme que ele e Sophia tenham se aproximado demais. Ele considera manda-la embora."
+      "date": "JANUARY 8TH 1943",
+      "event": "Maxis worries he and Sophia have grown too close. He considers sending her away."
     }
   ],
   "13": [
     {
-      "date": "16 de Janeiro, 1943",
-      "event": "Nikolai é capturado por forças alemãs durante a batalha de Stalingrado. Ele se torna uma cobaia nos experimentos do Grupo 935."
+      "date": "JANUARY 16TH 1943",
+      "event": "Nikolai is captured by German Forces during the Battle of Stalingrad. He becomes a subject in Group 935 experiments."
     },
     {
-      "date": "27 de Janeiro, 1943",
-      "event": "Maxis relata o sucesso com a cobaia 26, cujas “violentas explosões de raiva foram amplamente reduzidas”. Maxis acredita que “este método de tratamento será cem por cento eficaz na maioria dos casos.”"
+      "date": "JANUARY 27TH 1943",
+      "event": "Maxis reports success with Subject Two-Six, whose \"violent outbursts have been greatly reduced.\" Maxis believes \"this method of treatment will be 100 percent effective in most cases.\""
     },
     {
-      "date": "2 de Fevereiro, 1943",
-      "event": "A Batalha de Stalingrado termina."
+      "date": "FEBRUARY 2ND 1943",
+      "event": "The Battle Stalingrad ends."
     },
     {
-      "date": "10 de Fevereiro, 1943",
-      "event": "Maxis relata que o tratamento foi aperfeiçoado. Ele acredita que se a “Cobaia 26 puder reter seu comportamento por mais de vinte e seis horas, então a entrega do exército zumbi poderá ser acelerada”."
+      "date": "FEBRUARY 10TH 1943",
+      "event": "Maxis reports the treatment has been perfected. He believes if \"Subject Two-Six can retain the impressions longer than twenty-six hours, then the delivery of the zombie army can be accelerated.\""
     }
   ],
   "14": [
     {
-      "date": "12 de Fevereiro, 1943",
-      "event": "Depois de atacar um cientista, a Cobaia 26 é morta e considerada “mais uma falha”."
+      "date": "FEBRUARY 12TH 1943",
+      "event": "After attacking a handler, Subject Two-Six is killed and deemed \"another setback.\""
     },
     {
-      "date": "18 de Maio, 1943",
-      "event": "Harvey Yena começa a trabalhar com o Grupo 935."
+      "date": "MAY 18TH 1943",
+      "event": "Harvey Yena begins his work with Group 935."
     },
     {
-      "date": "4 de junho, 1943",
-      "event": "Primis chega vindo da Dimensão 63. Em um esforço para evitar os eventos que estão prestes a se desenrolar, eles formulam um plano para parar o Richtofen desta dimensão."
+      "date": "JUNE 4TH 1943",
+      "event": "Primis arrives from Dimension 63. In an effort to prevent the events that are about to unfold they formulate a plan to stop this dimension’s Richtofen."
     },
     {
-      "date": "11 de Junho, 1943",
-      "event": "Na Casa, Maxis contata Richtofen e o adverte que “as cobaias nunca devem ser despertadas. o estrago que poderia ser despertado no futuro por indivíduos tão simplórios seria catastrófico”."
+      "date": "JUNE 11TH 1943",
+      "event": "Richtofen is contacted from the House by Maxis, who warns that \"The test subjects must never be allowed to be awakened, the havoc that could be awakened upon the future by such simple-minded individuals would be catastrophic.\""
     }
   ],
   "15": [
     {
-      "date": "15 de Junho, 1943",
-      "event": "Takeo relata ao Imperador que o trabalho que está sendo feito no Complexo do Sol Nascente é “inaceitável”."
+      "date": "JUNE 15TH 1943",
+      "event": "Takeo reports to the Emperor that the work being done at the Rising Sun Facility is \"unacceptable.\""
     },
     {
-      "date": "19 de Junho, 1943",
-      "event": "Primis Richtofen é teletransportado para a Casa em Agartha, onde ele se reencontra com Maxis."
+      "date": "JUNE 19TH 1943",
+      "event": "Primis Richtofen is teleported to the House in Agartha, reuniting him with Maxis."
     },
     {
-      "date": "24 de Junho, 1943",
-      "event": "Por ordem do Imperador, Takeo é feito prisioneiro pelo Grupo 935 e Divisão 9. Ele será usado como cobaia nas experiências."
+      "date": "JUNE 24TH 1943",
+      "event": "On the orders of the Emperor, Takeo is taken prisoner by Group 935 and Division 9. He is used as a test subject for experiments."
     },
     {
-      "date": "14 de Julho, 1944",
-      "event": "Depois dos contratempos com a Cobaia 26, Maxis relata novo sucesso com o exército dos mortos-vivos. No entanto, ele mantém sua crença de que eles não podem ser controlados ou mantidos."
+      "date": "JULY 14TH 1944",
+      "event": "After the setbacks with Subject Two-Six, Maxis reports new success with the undead Army. However, he maintains his belief that the undead cannot be controlled or maintained."
     },
     {
-      "date": "2 de Setembro, 1944",
-      "event": "Pablo Marinus, um espião mexicano, é capturado pelo Grupo 935 em Der Eisendrache."
+      "date": "SEPTEMBER 2ND 1944",
+      "event": "Pablo Manius, a Mexican Spy, is captured by Group 935 at Der Eisendrache."
     }
   ],
   "16": [
     {
-      "date": "9 de Maio, 1945",
-      "event": "Em sua cela, Pablo escreve sobre visões de uma grande guerra. Ele descreve uma “grande batalha contra estranhas criaturas semelhantes a demônios que estavam tentando devorar a Terra”. Em sua visão, ele vê quatro cavaleiros protegendo-o da morte certa. Ele nota que os cavaleiros usavam túnicas semelhantes às das estatuas em Der Eisendrache."
+      "date": "MAY 9TH 1945",
+      "event": "In his cell, Pablo writes of visions of a great war. He describes a \"great battle against strange demon-like creatures who were trying to devour the Earth.\" In his vision, he sees four knights protect him from certain death. He makes a note that the knights wore tunics similar to those in Der Eisendrache."
     },
     {
-      "date": "4 de Junho, 1945 - NATCH DER UNTOTEN",
-      "event": "Um avião aliado sofre pane sobre um aeródromo e cai. Caminhões do exército alemão, transportando os mortos-vivos e o Elemento 115 entre as instalações do Grupo 935, são atingidos pelo avião. Os fuzileiros que sobrevivem ao acidente lutam contra os mortos-vivos, até não poderem mais."
+      "date": "JUNE 4TH 1945 - NACHT DER UNTOTEN",
+      "event": "An Allied plane malfunctions over an airfield and crashes. German Army trucks, transporting the undead and Element 115 between Group 935 facilities is struck in struck in the crash. The marines surviving the crash hold out against the undead as long as they can."
     },
     {
-      "date": "17 de Junho, 1945",
-      "event": "Peter McCain se infiltra no Grupo 935 em Der Riese."
+      "date": "JUNE 17TH 1945",
+      "event": "Peter McCain infiltrates Group 935 at Der Riese."
     }
   ],
   "17": [
     {
-<<<<<<< HEAD
-      "date": "29 de Junho 1945",
-      "event": "Groph e Schuster desenvolvem a Wave Gun."
-=======
       "date": "JUNE 29TH 1945",
       "event": "Groph and Schuster develop the Wave Gun."
->>>>>>> refs/remotes/dtzxporter/master
     },
     {
-      "date": "15 de Julho, 1945",
-      "event": "Richtofen viaja para o complexo na Sibéria para fazer mais pesquisas com “espécimes vivos”. Como seu guardião temporário, ele leva Samantha com ele. O grupo 935 começa a transferir três cobaias de teste para experimentação: Nikolai, Pablo e Takeo."
+      "date": "JULY 15TH 1945",
+      "event": "Richtofen travels to the siberia Facility to do further research on \"live specimens.\" As her temporary guardian, he takes Samantha with him. Group 935 begins transferring three test subjects for experimentation: Nikolai, Pablo, and Takeo."
     },
     {
-      "date": "29 de Julho, 1945",
-      "event": "Enquanto Richtofen trabalha na base da Sibéria, o Grupo 935 inicia o desenvolvimento do Deadshot Daiquiri."
+      "date": "JULY 29TH 1945",
+      "event": "While Richtofen works at the Siberian Facility, Group 935 begins development of Deadshot Daiquiri."
     },
     {
-      "date": "1 de Agosto, 1945",
-      "event": "As cobaias chegam à instalação siberiana para as experiências de Richtofen."
+      "date": "AUGUST 1ST 1945",
+      "event": "The test subjects arrive at the Siberian facility for Richtofen’s experiments."
     }
   ],
   "18": [
     {
-      "date": "31 de Agosto, 1945",
-      "event": "O Agente da CIA, Cornelius Pernell, confirma que Peter McCain se infiltrou com êxito no Grupo 935 e foi transferido para o Complexo Asylum. Cornelius suspeita que o Grupo 935 esteja perdendo o controle de suas experiências e enviou uma unidade de fuzileiros para extrair McCain. Tank Dempsey é o líder da equipe."
+      "date": "AUGUST 31ST 1945",
+      "event": "CIA Handler Cornelius Pernell confirms that Peter McCain has successfully infiltrated Group 935 and has been transferred to the Asylum Facility. Cornelius suspects Group 935 is losing control of their experiments and has sent in a Marine Recon unit to extract McCain. Tank Dempsey is the lead to the Squad."
     },
     {
-      "date": "1 de setembro, 1945",
-      "event": "Peter é descoberto e capturado pelo Grupo 935."
+      "date": "SEPTEMBER 1ST 1945",
+      "event": "Peter is outed as a spy and captured by Group 935."
     },
     {
-      "date": "2 de Setembro, 1945",
-      "event": "Richtofen relata que Pablo morreu após uma cirurgia para remoção do baço. Ele também revela que ele tem realizado experimentos com Samantha. A Segunda Guerra Mundial termina. O Grupo 935 continua sua pesquisa. Fendas Temporais começam a afetar o Complexo Asylum. Um empregado relata problemas crescentes com as cobaias."
+      "date": "SEPTEMBER 2ND 1945",
+      "event": "Richtofen reports Pablo has died following a spleen removal. He also reveals he’s been performing experiments on Samantha. WW2 ends. Group 935 continues their research. Temporal Rifts begin to affect the asylum facility. An Orderly reports increasing problems with test subjects."
     }
   ],
   "19": [
     {
-      "date": "2 de Setembro, 1945",
-      "event": "Muitos no complexo começaram a ouvir vozes vindas das paredes, incluindo os soluços de um menino e uma menina, gritaria, e “um homem gritando para crianças fecharem as janelas”."
+      "date": "SEPTEMBER 2ND 1945",
+      "event": "Many in the facility have begun hearing voices coming from the walls, including the sobbing of a boy and a girl, screaming, and \"a man shouting for children to close the windows.\""
     },
     {
-      "date": "3 de Setembro, 1945",
-      "event": "Um acidente ocorre no complexo e os zumbis escapam. Peter McCain foge."
+      "date": "SEPTEMBER 3RD 1945",
+      "event": "An outbreak occurs at the Asylum facility. Peter McCain escapes."
     },
     {
-      "date": "6 de Setembro, 1945 - VERRUCKT",
-      "event": "Dempsey, John Banana, Smokey e um quarto fuzileiro chegam ao Complexo Asylum, apenas para encontrá-lo tomado por zumbis. Eles lutam contra a horda enquanto podem. Dempsey é capturado pelo grupo 935."
+      "date": "SEPTEMBER 6TH 1945 - VERRUCKT",
+      "event": "Dempsey, John Banana, Smokey and a fourth marine arrive at the Asylum Facility to find it overrun by zombies. They fight off the horde as long as they can. Dempsey is apprehended by group 935."
     },
     {
-      "date": "7 de Setembro, 1945",
-      "event": "John Banana escreve mensagens e grava suas últimas palavras enquanto é comido vivo por Smokey, agora zumbi."
+      "date": "SEPTEMBER 7TH 1945",
+      "event": "John Banana writes messages and records his last words while being eaten alive by an undead Smokey."
     }
   ],
   "20": [
     {
-      "date": "10 de Setembro, 1945",
-      "event": "Richtofen relata que outro espião foi capturado e será trazido para substituir “o mexicano”. Seu nome é Dempsey."
+      "date": "SEPTEMBER 10TH 1945",
+      "event": "Richtofen reports another spy has been captured and will be brought in to replace \"the Mexican.\" The subject is Dempsey."
     },
     {
-      "date": "13 de Setembro, 1945",
-      "event": "Cornelius Pernell tenta enviar uma transmissão para Peter McCain, dizendo-lhe para seguir ao ponto de encontro no Complexo do Sol Nascente."
+      "date": "SEPTEMBER 13TH 1945",
+      "event": "Cornelius Pernell attempts to send a transmission to Peter McCain, telling him to rendezvous at the Rising Sun Facility."
     },
     {
-      "date": "17 de Setembro, 1945",
-      "event": "Dempsey chega ao complexo na Sibéria."
+      "date": "SEPTEMBER 17TH 1945",
+      "event": "Dempsey arrives at the Siberian Facility."
     }
   ],
   "21": [
     {
-      "date": "20 de Setembro, 1945",
-      "event": "Richtofen documenta a personalidade de suas cobaias. O intelecto de Dempsey “parece baixo, mas sua força de vontade é forte”. Takeo “somente olha para o chão, murmurando e repetindo algum tipo de provérbio”. Nikolai “começou recentemente a responder a estímulos, Mas só depois de injeções de um novo soro feito principalmente a partir de Vodka”. Richtofen observa que suas mentes foram quase que totalmente apagadas, sem memória restante de quem eles uma vez foram."
+      "date": "SEPTEMBER 20TH 1945",
+      "event": "Richtofen documents the personality traits of his test subjects. Dempsey’s \"intellect seems low, but his will is strong.\" Takeo is \"still staring at the floor, muttering what sounds like some kind of proverb over and over again.\" Nikolai has \"recently begun responding to stimuli, but only after injections of a new serum made primarily from vodka.\" Richtofen notes that their minds have been almost entirely broken, with no memory remaining who they once were."
     },
     {
-      "date": "27 de Setembro, 1945",
-      "event": "Richtofen retorna a Der Riese com Dempsey, Nikolai, Takeo e Samantha."
+      "date": "SEPTEMBER 27TH 1945",
+      "event": "Richtofen returns to Der Riese with Dempsey, Nikolai, Takeo Samantha."
     },
     {
-      "date": "1 de Outubro, 1945",
-      "event": "Maxis relata os avanços de Richtofen com suas cobaias , observando que, enquanto sua psique básica permanece intacta, todas as memórias específicas foram perdidas."
+      "date": "OCTOBER 1ST 1945",
+      "event": "Maxis reports on Richtofen’s findings with his live test subjects, noting that while their baseline psyche remains intact, all specific memories have been lost."
     }
   ],
   "22": [
     {
-      "date": "1 de outubro, 1945",
-      "event": "Enfurecido ao saber que Maxis não fez a produção em massa do DG-2 como ele jurou que faria, Richtofen revela seu plano para destruir Maxis e Samantha, prometendo que ele não vai continuar a trabalhar em seu exército de mortos-vivos."
+      "date": "OCTOBER 1ST 1945",
+      "event": "Infuriated to learn that Maxis has not been mass producing the DG-2 as he swore he would, Richtofen revels in his plot to destroy Maxis and Samantha, vowing that he will no longer continue to work his undead army."
     },
     {
-      "date": "8 de Outubro, 1945",
-      "event": "Groph informa a Richtofen que o MPD está quase pronto."
+      "date": "OCTOBER 8TH 1945",
+      "event": "Groph reports to Richtofen the MPD is nearly ready."
     },
     {
-      "date": "12 de Outubro, 1945",
-      "event": "Groph envia uma mensagem a rádio para Richtofen, informando-o que o dispositivo foi ligado e está aguardando o conduite. Richtofen diz que prosseguirá com a Operação Shield e eliminará Maxis e Samantha."
+      "date": "OCTOBER 12TH 1945",
+      "event": "Grophs radios Richtofen to inform him that the device has been powered up and is awaiting the conduit. Richtofen says he will proceed with Operation Shield and dispose of Maxis and Samantha."
     }
   ],
   "23": [
     {
-      "date": "13 de Outubro, 1945",
-      "event": "Embora frustrado que os “testes de transferência de matéria tenham sido em grande parte sem sucesso”, Maxis reconhece que a partida das cobaias de seu ponto de origem é inegável. “No entanto, a sugestão de Richtofen de que os indivíduos foram transportados não através do espaço, mais sim através do tempo, faz Maxis se preocupar se a sua “irracionalidade possa em breve provar ser um problema aos nossos esforços”."
+      "date": "OCTOBER 13TH 1945",
+      "event": "Though frustrated that the “matter transference tests… have been largely unsuccessful,” Maxis acknowledges that the test subjects departure from their original point of origins is undeniable.” However, Richtofen’s suggestion that the subjects have been transported not through space, but time itself causes Maxis to worry if his “irrationality may soon prove a liability to our endeavors."
     },
     {
-      "date": "13 de Outubro, 1945",
-      "event": "Maxis e Richtofen realizam testes de teletransporte nas cobaias 3, 4 e 5. Todos falham, incluindo o teste 5, no qual Maxis usa Fluffy. Samantha vê Fluffy e corre para o teletransportador. Maxis a persegue. Richtofen prende ambos na câmara de teste e teletransporta os três."
+      "date": "OCTOBER 13TH 1945",
+      "event": "Maxis and Richtofen perform teleportation test trials on Test Subjects Number 3, 4, and 5. All fail, including Test 5, where Maxis uses Fluffy. As Test 6 chamber. Samantha sees fluffy and runs into the teleporter. Maxis chases after her. Richtofen seals them both in the test chamber and teleports all three of them."
     }
   ],
   "24": [
     {
-      "date": "13 de Outubro, 1945",
-      "event": "Samantha é teleportada para a lua enquanto Groph e Schuster trabalham no MPD. Esbarrando sem querer no MPD, ela é arrastada para dentro dele, onde se torna corrompida pelo Dark Aether. Maxis é teleportado para o Crazy Place(Origins) e desenvolve o poder de se mesclar com a eletricidade. Richtofen retorna à lua. Ao saber que  Samantha está presa no MPD, ele ordena Groph para teletransportar Maxis para lá no intuito de persuadi-la a sair do dispositivo. Ele também adverte a Groph para ficar de olho caso um “cão malvado”  apareça." 
+      "date": "OCTOBER 13TH 1945",
+      "event": "Samantha is teleported to the moon while Groph and Schuster work on the MPD. Running into the MPD, she is drawn inside of it, where she becomes corrupted by the Dark Aether. Maxis is teleported to the Crazy Place and develops the power to merge with electricity. Richtofen returns to the moon. Learning Samantha is trapped in the MPD, he orders Groph to teleport Maxis there to coax her out of the device. He also warns Groph to keep an eye out for an \"evil looking dog.\" Richtofen returns to the moon."
     }
   ],
   "25": [
     {
-      "date": "13 de Outubro, 1945",
-      "event": "Em um esforço para libertar Samantha, Maxis se aproxima do MPD e persuade-a a sair. Uma vez que ela sai, Maxis lhe da uma única instrução, “Mate-os... todos”. Maxis se mata e se funde com a tecnologia de Griffin Station, enquanto Samantha desencadeia os mortos-vivos sobre a base."
+      "date": "OCTOBER 13TH 1945",
+      "event": "In an effort to free Samantha, Maxis approaches the MPD and persuades her to come out. Once she does, Maxis gives her an instruction, \"Kill them... all.\" Maxis kills himself and merges with the technology of Griffin Station, while Samantha unleashes the undead upon the base."
     },
     {
-      "date": "14 de Outubro, 1945",
-      "event": "H. Porter ativa o alarme enquanto os zumbis que escapam começam a tomar Der Riese. Antes de tomar uma cápsula de cianeto, ele diz “Não há mais esperança ... deus perdoe todos nós”."
+      "date": "OCTOBER 14TH 1945",
+      "event": "H. Porter activates the alarm as an outbreak occurs at Der Reise. Before taking a cyanide capsule, he says he's \"all out of hope... god forgive us all.\""
     },
     {
-      "date": "14 de Outubro, 1945",
-      "event": "Richtofen retorna a Der Riese e desperta Dempsey, Takeo e Nikolai. Sem lembranças de quem são ou quem é Richtofen, eles concordam em ajudá-lo. Os quatro se tornariam conhecidos como Ultimis."
+      "date": "OCTOBER 14TH 1945",
+      "event": "Richtofen returns to Der Reise and awakens Dempsey, Takeo, and Nikolai. With no recollection of who they are or who Richtofen is, they agree to help him. The four would become known as Ultimis."
     },
     {
-      "date": "18 de Outubro, 1945",
-      "event": "Peter McCain pula de paraquedas sobre o Complexo do Sol Nascente. Ele morre pouco depois."
+      "date": "OCTOBER 18TH 1945",
+      "event": "Peter McCain parachutes over the Rising Sun Facility. He dies shortly after."
     }
   ],
   "26": [
     {
-      "date": "27 de Janeiro, 1946",
-      "event": "O Pentágono contrata muitos dos ex-cientistas do Grupo 935 em um esforço para replicar seu trabalho."
+      "date": "OCTOBER 21ST 1945 - SHI NO NUMA",
+      "event": "Ultimis travels to the Rising Sun Facility to recover Richtofen's diary. Upon reading it, Richtofen begins to form his plan to defeat Samantha."
     },
     {
-      "date": "29 de Janeiro, 1946",
-      "event": "Tal como seus equivalentes nos EUA, os soviéticos contratam muitos ex-cientistas do Grupo 935. Entre eles está Harvey Yena, que forma o Grupo Ascension."
+      "date": "OCTOBER 28TH 1945 - DER REISE",
+      "event": "Ultimis returns to Der Reise. With his diary, Richtofen plans to use the teleporter to return to the moon and confront Samantha. Unfortunately the Wunderwaffe DG-2 overloads the teleporter and sends them through time - causing Richtofen to drop his diary."
     },
     {
-      "date": "29 de Julho, 1952",
-      "event": "O Pentágono começa experiências envolvendo suas próprias versões dos mortos-vivos."
+      "date": "NOVEMBER 5TH 1945",
+      "event": "Group 935 is disbanded."
     },
     {
-      "date": "12 de Maio, 1955",
-      "event": "O governo dos EUA transfere parte dos experimentos com o Elemento 115 para o Complexo de Groom Lake."
-    },
-    {
-      "date": "19 de Outubro, 1955",
-      "event": "Gersh e Yuri Zavoyski começam a trabalhar para o Grupo Ascension."
+      "date": "JANUARY 19TH 1946",
+      "event": "The United States and the Soviet Union share the resources recovered from Group 935's various research stations. Richtofen's diary is among the items recovered by the Soviet Union."
     }
   ],
   "27": [
     {
-      "date": "25 de Abril, 1956",
-      "event": "Os exploradores Brock e Gary descobrem Shangri-La. Durante um eclipse, eles são involuntariamente presos em um loop temporal. Sally, enviada de volta no tempo de 2011, está presa no mesmo loop. Ultimis chega em Shangri-La. Com a ajuda de Brock e Gary, eles adquirem a Focusing Stone."
+      "date": "JANUARY 27TH 1946",
+      "event": "The Pentagon hires many former Group 935 scientists in an effort to replicate their work."
     },
     {
-      "date": "3 de Junho, 1959",
-      "event": "O Pentágono constrói seu próprio protótipo de teletransportador, e começa a fazer experimentos."
+      "date": "JANUARY 29TH 1946",
+      "event": "As with their US counterparts, the Soviets hire many former Group 935 scientists. Among them is Harvey Yena, who forms the Ascension Group."
     },
     {
-      "date": "15 de Março, 1962",
-      "event": "Ao estudar as pesquisas sobre elixires medicinais feitas pelo Grupo 935, o Grupo Ascension desenvolve PhD Flopper e Stamin-Up."
+      "date": "JULY 29TH 1952",
+      "event": "The Pentagon begins experiments involving their own versions of the undead."
     },
     {
-      "date": "11 de Novembro, 1962",
-      "event": "Gersh começa a trabalhar no projeto Thunder."
+      "date": "MAY 12TH 1955",
+      "event": "The US Government transfers a number of Element 115 experiments to the Groom Lake Facility."
+    },
+    {
+      "date": "OCTOBER 19TH 1955",
+      "event": "Gersh and Yuri Zavoyski begin working for the Ascension Group."
     }
   ],
   "28": [
     {
-      "date": "12 de Dezembro, 1962",
-      "event": "Gersh e Yuri começam a trabalhar no Gersh Device, codinome Projeto Mercury."
+      "date": "APRIL 25TH 1956",
+      "event": "Explorers Brock and Gary discover Shangri-La. During an eclipse, they're unwittingly trapped in a time loop. Sally, sent back in time from 2011, is trapped in the same loop. Ultimis arrives in Shangri-La. With the help of Brock and Gary, they acquire the Focusing Stone."
     },
     {
-      "date": "15 de Junho, 1963",
-      "event": "O Pentágono começa o desenvolvimento de sua própria versão do Wunderwaffe DG-2."
+      "date": "JUNE 3RD 1959",
+      "event": "The Pentagon constructs their own prototype teleporter, and commence experimentation."
     },
     {
-      "date": "17 de Agosto, 1963",
-      "event": " O Pentágono começa o desenvolvimento em sua própria versão do Winter’s Howl."
+      "date": "MARCH 15TH 1962",
+      "event": "Studying Group 935's medicinal elixir research, The Ascension Group develops PhD Flopper and Stamin-Up."
+    },
+    {
+      "date": "NOVEMBER 11TH 1962",
+      "event": "Gersh begins work on Project Thunder."
+    },
+    {
+      "date": "DECEMBER 12TH 1962",
+      "event": "Gersh and Yuri begin work on the Gersh Device, codenamed Project Mercury."
     }
   ],
   "29": [
     {
-      "date": "28 de Outubro, 1963 - KINO DER TOTEN",
-      "event": "De Der Riese, Ultimis teletransporta para Kino. Esta é a primeira vez que Ultimis viaja pelo espaço e pelo tempo. Fendas Temporais ocorrem em todas as dimensões. Em luz desses desenvolvimentos, Monty se sente obrigado a intervir, e começa a fazer mudanças no plano de fundo ao longo das dimensões. Ele ajuda o Grupo 935 a inventar as Perk Machines. Ele adiciona desenhos em giz às paredes. Pequenos empurrõezinhos. Ultimis localiza um modulo lunar e voa para o Complexo Ascension."
+      "date": "JUNE 15TH 1963",
+      "event": "The Pentagon begins development on their own version of the Wunderwaffe DG-2."
     },
     {
-      "date": "29 de Outubro, 1963",
-      "event": "Gersh informa ao comando do grupo que Yuri foi removido do Projeto Mercury e foi transferido para a pesquisa de foguetes."
+      "date": "AUGUST 17TH 1963",
+      "event": "The Pentagon begins development on their own version of the Winter's Howl."
     },
     {
-      "date": "29 de Outubro 1963",
-      "event": "Yuri começa a perceber o repentino aparecimento de brinquedos no Complexo."
+      "date": "OCTOBER 28TH 1963 - KINO DER TOTEN",
+      "event": "From Der Reise, Ultimis teleports to Kino. This marks the first time Ultimis travels across space and time. Temporal Rifts occur across dimensions. In light of these developments, Monty feels obligated to step in, and begins to make changes in the background across time. He helps Group 935 invent Perk machines. He adds chalk drawings to walls. Little nudges. Ultimis locates a Lunar Lander and fly to the Ascension Facility."
+    },
+    {
+      "date": "OCTOBER 29TH 1963",
+      "event": "Gersh informs the senior staff that Yuri has been removed from Project Mercury and has been transferred to Rocket Research."
     }
   ],
   "30": [
     {
-      "date": "1 de Novembro, 1963",
-      "event": "Ao ler o diário de Richtofen, Yuri começa a ouvir a voz de Samantha. Durante vários dias, sua voz o consumirá, levando-o a retomar o trabalho no Gersh Device."
+      "date": "OCTOBER 29TH 1963",
+      "event": "Yuri begins to notice the appearance of children's toys around the facility."
     },
     {
-      "date": "4 de Novembro, 1963",
-      "event": "Gersh anuncia ao comitê que o projeto Thunder está próximo de ser terminado. Gersh revela que Yuri pode precisar ser removido do grupo, tendo o observado sendo “hostil com outros cientistas, e frequentemente murmurando consigo mesmo”."
+      "date": "NOVEMBER 1ST 1963",
+      "event": "Upon reading Richtofen's diary, Yuri begins to hear Samantha's voice. Over several days, her voice will consume him, driving him to resume work on the Gersh Device. He obeys."
     },
     {
-      "date": "5 de Novembro, 1963",
-      "event": "Obedecendo aos desejos de Samantha, Yuri engana Gersh, e o faz ativar o Gersh Device. A fenda temporal criada absorve-o e permite que Samantha atravesse. Yuri também é absorvido e transportado para o Pentágono."
+      "date": "NOVEMBER 4TH 1963",
+      "event": "Gersh announces to the Committee that Project Thunder is nearing completion. gersh reveals Yuri may need to be removed from Ascension entirely, having observed his being \"hostile towards other scientists... and frequently observed muttering to himself.\""
     }
   ],
   "31": [
     {
-      "date": "6 de Novembro, 1963 - ASCENSION",
-      "event": "Ultimis chega ao Cosmódromo Soviético e liberta Gersh do Mecanismo de Casimir. Richtofen recupera seu diário e descobre que eles precisam do Dispositivo Vril da Instalação Siberiana para seu plano. Mantendo sua forma etérea, Gersh os envia por uma fenda para seu próximo destino antes de começar suas viagens pelo espaço e pelo tempo."
+      "date": "NOVEMBER 5TH 1963",
+      "event": "Obeying Samantha's wishes, Yuri tricks Gersh into activating the Gersh Device. The rift created absorbs him and allows Samantha to travel through. Yuri is also absorbed and transported to the Pentagon."
     },
     {
-      "date": "6 de Novembro, 1963 - FIVE",
-      "event": "No Pentágono, John F. Kennedy, Richard Nixon e Robert McNamara se encontram com Fidel Castro após o fim da Crise de Mísseis de Cuba. Devido aos eventos no cosmódromo, um ataque de zumbis ocorre. Samantha envia Yuri ao Pentágono para impedir que eles sobrevivam. Depois que Gersh é liberado e Ultimis parte do cosmódromo, o ataque termina no Pentágono. Todos os quatro sobrevivem."
+      "date": "NOVEMBER 6TH 1963 - ASCENSION",
+      "event": "Ultimis arrives at the Soviet Cosmodrome and free Gersh from the Casimir Mechanism. Richtofen recovers his diary, and learns that they need the Vril Device from the Siberian Facility for his plan. Maintaining his ethereal form, Gersh sends them into a rift to their next destination before beginning his travels across space and time."
+    },
+    {
+      "date": "NOVEMBER 6TH 1963 - FIVE",
+      "event": "In the Pentagon, John F. Kennedy, Richard Nixon, and Robert McNamara meet with Fidel Castro in the aftermath of the Cuban Missile Crisis. Due to the events at the cosmodrome, a zombie outbreak occurs. Samantha sends Yuri to the Pentagon to thwart their survival. -"
     }
   ],
   "32": [
     {
-      "date": "19 de Novembro, 1963",
-      "event": "Em um esforço para evitar outro surto de mortos-vivos, o governo dos EUA cria o programa Broken Arrow, estabelecendo várias instalações em todo o país. O Complexo de Groom Lake é colocado sobre a jurisdição do Broken Arrow."
+      "event": "After Gersh is freed and Ultimis departs from the Cosmodrome, the outbreak ends at the Pentagon. All four survive."
     },
     {
-      "date": "11 de Agosto, 1973",
-      "event": "Broken Arrow recupera da Divisão 9 um Fragmento de meteoro contendo Elemento 115."
+      "date": "NOVEMBER 19TH 1963",
+      "event": "In an effort to avoid another undead outbreak, the US Government creates the Broken Arrow program, establishing several facilities across the country. The Groom Lake Program is folded into Broken Arrow."
     },
     {
-      "date": "19 de Setembro, 1979",
-      "event": "Russman começa a trabalhar na Broken Arrow. Ao longo do seu emprego, sua exposição extensa ao Elemento 115 leva a uma perda de memória significativa."
+      "date": "AUGUST 11TH 1973",
+      "event": "Broken Arrow recovers a shard of Element 115 from Division 9."
     },
     {
-      "date": "20 de Abril, 1983",
-      "event": "Broken Arrow começa a fazer experiências com animais vivos usando o Fragmento, criando os Bios."
+      "date": "SEPTEMBER 19TH 1979",
+      "event": "Russman begins work at Broken Arrow. Over the course of his employment, his extensive exposure to Element 115 leads to significant memory loss."
+    },
+    {
+      "date": "APRIL 20TH 1983",
+      "event": "Broken Arrow begins live animal experiments with the shard, creating Bios."
     }
   ],
   "33": [
     {
-      "date": "24 de Junho, 1986",
-      "event": "Uma brecha de contenção envolvendo os Bios ocorre em uma das instalações da Broken Arrow. Russman é um dos poucos a escapar vivo. A instalação é fechada e abandonada. Seus projetos são transferidos para outros locais."
+      "date": "JUNE 24TH 1986",
+      "event": "A containment breach involving the Bios occurs at one of the Broken Arrow facilities. Russman is one of the few to escape alive. The facility is shut down and abandoned. Its projects are transferred to other locations."
     },
     {
-      "date": "24 de Junho,  1996",
-      "event": "Victis chega ao complexo abandonado da Broken Arrow. Ainda sendo perseguidos por um Richtofen zumbi, eles recuperam o Fragmento de Elemento 115 e partem através de outro portal."
+      "date": "JUNE 24TH 1996",
+      "event": "Victis arrives at the abandoned Broken Arrow facility. Still being pursued by undead Richtofen, they recover the Element 115 Shard and depart through another rift."
     }
   ],
   "34": [
     {
-      "date": "17 de Março, 2011 - CALL OF THE DEAD",
-      "event": "Depois de entrar na fenda, Ultimis chega ao complexo na Sibéria em 2011, onde se encontram presos em um armário enquanto George A. Romero filma seu mais recente projeto no local. Samantha, em sua busca pelos Ultimis, desencadeia um ataque de mortos-vivos. As estrelas do filme lutam contra a horda de mortos-vivos, finalmente recuperando o Dispositivo Vril para Richtofen. Ultimis teleporta para Shangri-La em um esforço para adquirir o próximo artefato necessário para derrotar Samantha: A Focusing Stone."
+      "date": "MARCH 17TH, 2011 - CALL OF THE DEAD",
+      "event": "After entering the rift, Ultimis arrives at the Siberian Facility in 2011, where they find themselves trapped in a closet while George A. Romero films his latest project at the location. Samantha, in her pursuit of Ultimis, unleashes an undead outbreak. The film's stars fight the undead horde, ultimately recovering the Vril Device for Richtofen. Ultimis teleports to Shangri-La in an effort to acquire the next artifact required to defeat Samantha: The Focusing Stone."
     },
     {
-      "date": "11 de Abril, 2011",
-      "event": "Após o desaparecimento do elenco de Call of the Dead e sua equipe, a assistente de Romero, Sally, começa uma busca por seu chefe. Sua viagem a leva a Shangri-La durante um eclipse, que a envia de volta no tempo a 25 de abril de 1956."
+      "date": "APRIL 11TH, 2011",
+      "event": "Following the disappearance of the Call of the Dead cast and crew, Romero's assistant Sally begins the search for her boss. Her journey leads her to Shangri-La during an eclipse, which sends her back in time to April 25th, 1956."
     }
   ],
   "35": [
     {
-      "date": "10 de Abril, 2023",
-      "event": "Broken Arrow cria os Denizens."
+      "date": "APRIL 10TH, 2023",
+      "event": "Broken Arrow creates the Denizens."
     },
     {
-      "date": "8 de Julho, 2025",
-      "event": "Broken Arrow acidentalmente cria o Avogadro."
+      "date": "JULY 8TH, 2025",
+      "event": "Broken Arrow accidentally creates Avogadro."
     },
     {
-      "date": "1 de Setembro, 2025",
-      "event": "Desesperada por mais Elemento 115, Broken Arrow usa uma escavadeira para perfurar perto do complexo de testes nuclear conhecido como Nuketown."
+      "date": "SEPTEMBER 1ST, 2025",
+      "event": "In desperate need of more Element 115, Broken Arrow uses an excavator to drill near the Nuclear Testing Facility known as Nuketown."
     }
   ],
   "36": [
     {
-      "date": "13 de Outubro, 2025 - MOON",
-      "event": "Usando o Dispositivo Vril e a Focusing Stone, Richtofen completa seu Grande Plano e troca de corpo com Samantha na Lua, dando-lhe o controle total dos zumbis e do Aether. Maxis contata os membros restantes de Ultimis através da rede eletrônica da estação e pede sua ajuda para derrotar Richtofen. Eles concordam. Eles lançam mísseis na Terra, deixando-a fraturada e quebrada. Eles rompem a conexão de Richtofen com o Aether, mas ele mantém o controle sobre os zumbis. Uma vez que Maxis controla o Aether em 2035 ele retorna à Lua e arranca Samantha do corpo de Richtofen para se juntar a ele em Agartha."
+      "date": "OCTOBER 13TH, 2025 - MOON",
+      "event": "Using the Vril Device and the Focusing Stone, Richtofen completes his Grand Scheme and swaps bodies with Samantha on the Moon, giving him full control of the zombies and the Aether. Maxis contacts the remaining members of Ultimis through the station's electronics and asks for their help to defeat Richtofen. They agree. they launch missiles at Earth, leaving it fractured and broken. They sever Richtofen's connection with the Aether, but he maintains control over the zombies. Once Maxis controls the Aether in 2035 he returns to the Moon and plucks Samantha from Richtofen's body to join him in Agartha."
     }
   ],
   "37": [
     {
-      "date": "13 de Outubro, 2025 - NUKETOWN ZOMBIES",
-      "event": "Uma bomba nuclear explode fora de Nuketown como resultado da perfuração da Broken Arrow. agentes  da CIA e do CDC chegam para encontrar a cidade tomade pelos mortos-vivos. Um dos mísseis da lua atinge Nuketown, matando todos no local ... exceto Marlton Johnson, que sobrevive escondendo-se em um bunker nuclear."
+      "date": "OCTOBER 13TH, 2025 - NUKETOWN ZOMBIES",
+      "event": "A nuclear bomb explodes outside of Nuketown as a result of Broken Arrow's drilling. CIA and CDC operatives arrive to find an undead outbreak already in progress. One of the missiles from the moon hits Nuketown, killing all on site... except for Marlton Johnson, who survives by hiding in a nuclear bunker."
     },
     {
-      "date": "13 de Outubro, 2025",
-      "event": "A fratura da Terra desencadeia mais Fendas Temporais, teletransportando uma cidade do faroeste americano de 1800 para debaixo de uma Instalação de Mineração em Angola. Arthur é puxado através da fenda de 1318, chegando na agora enterrada cidade."
+      "date": "OCTOBER 13TH, 2025",
+      "event": "The Earth fracturing triggers further Temporal Rifts, teleporting an 1800s American Western Town underneath a Mining Facility in Angola. Arthur is pulled through the rift from 1318, arriving in the now buried town."
     }
   ],
   "38": [
     {
-      "date": "5 de Novembro, 2025",
-      "event": "Broken Arrow é dissolvida depois que o complexo principal é perdido em um incêndio. Mais tarde, acredita-se ter sido um ato criminoso cometido por empregados com o intuito de destruir provas que os implicassem no surto zumbi. Russman, sua mente destruida após mais de quarenta anos de exposição ao Elemento 115, começa a vagar pela Terra."
+      "date": "NOVEMBER 5TH, 2025",
+      "event": "Broken Arrow is disbanded after the primary facility is lost in a fire. It is later believed to be an act of arson committed by employees destroying evidence implicating them in the outbreak. Russman, his mind broken after over forty years of exposure to Element 115, begins to wander the Earth."
     },
     {
-      "date": "18 de Março, 2027",
-      "event": "Em um anúncio de emergência, o Ex-Assistente Diretor da CDC George Barkley revela que os a infeção passou a ser pelo ar. Ele aconselha cautela sobre quaisquer aliados mostrando sinais de “perda de memória de curto prazo, psicose, ilusões e paranoia”."
+      "date": "MARCH 18TH, 2027",
+      "event": "In a distress call, Former CDC Assistant Director George Barkley reveals that the infectious contaminants have gone airborne. He advises caution regarding any allies showing signs of \"short term memory loss, psychosis, delusion, and paranoia.\""
     },
     {
-      "date": "27 de Março, 2027",
-      "event": "Uma sociedade de sobreviventes que comem os mortos-vivos é formada. Eles são conhecidos como “The Flesh”."
+      "date": "MARCH 27TH, 2027",
+      "event": "A society of survivors who eat the undead is formed. They are The Flesh."
     }
   ],
   "39": [
     {
-      "date": "12 de Maio, 2027",
-      "event": "Samuel J. Stuhlinger se junta a “The Flesh”."
+      "date": "MAY 12TH, 2027",
+      "event": "Samuel J. Stuhlinger joins The Flesh."
     },
     {
-      "date": "18 de Junho, 2027",
-      "event": "Através do consumo da carne dos mortos-vivos, os integrantes do “The Flesh” começam a ouvir a voz de Richtofen. Ele tenta persuadi-los a construir dispositivos de polarização global para ir em busca de seu novo plano: consertar as Fendas no espaço-tempo e adquirir controle total sobre o Aether."
+      "date": "JUNE 18TH, 2027",
+      "event": "Through the consumption of the undead meat, The Flesh begin hearing Richtofen's voice. He tries to persuade them to build global polarization devices for him in pursuit of his new plan: to mend the Rift in space time and acquire full control over the Aether."
     },
     {
-      "date": "28 de Junho, 2027",
-      "event": "Maxis começa a se comunicar com os sobreviventes na Terra, dizendo aos que estão dispostos a ouvir para construir dispositivos de polarização global para ir em busca de seu novo plano: Abrir Agartha e reunir-se com Samantha, mesmo que isso resulte na destruição da Terra."
+      "date": "JUNE 28TH, 2027",
+      "event": "Maxis begins communicating to survivors on Earth, telling those willing to listen to build global polarization devices for him in pursuit of his new plan: to open Agartha and reunite him with Samantha, even though it will result in the destruction of the Earth."
     }
   ],
   "40": [
     {
-      "date": "4 de Abril, 2028",
-      "event": "”The Flesh” passa a transmitir sua mensagem através de todas as freqüências. Eles dizem aos outros para “atender a nossa chamada” e que o “caminho para a iluminação” pode ser alcançado ao consumir os mortos-vivos."
+      "date": "APRIL 4TH, 2028",
+      "event": "The Flesh broadcast their message across all frequencies. They tell others to \"heed our call\" and that the \"path to enlightenment\" can be achieved by consuming the undead."
     },
     {
-      "date": "9 de Dezembro, 2028",
-      "event": "Os seguidores de Maxis começam a construir torres perto do complexo de Hanford."
+      "date": "DECEMBER 9TH, 2028",
+      "event": "Maxis' followers begin constructing a spire near the Hanford Site Facility."
     },
     {
-      "date": "3 de Janeiro, 2029",
-      "event": "Os seguidores de Maxis começam a duvidar dele, acreditando que ele pode de fato ser do mal. Eles destroem seus dispositivos eletrônicos."
+      "date": "JANUARY 3RD, 2029",
+      "event": "Maxis' followers begin to doubt him, believing he may in fact be evil. They destroy their electronics."
     },
     {
-      "date": "2 de Março, 2029",
-      "event": "Os seguidores de Maxis tentam falar com ele novamente. Muitos começaram a ouvir Richtofen... e aqueles leais a Maxis ansiosamente aguardam mais instruções."
+      "date": "MARCH 2ND, 2029",
+      "event": "Maxis' followers attempt to speak to him again. Many have begun to hear Richtofen... and those loyal to Maxis eagerly await further instruction."
     }
   ],
   "41": [
     {
-      "date": "15 de Agosto, 2029",
-      "event": "Uma transmissão é enviada confirmando a queda do “The Flesh” e dos seguidores de Maxis. Com cada grupo ouvindo a voz de Richtofen ou Maxis, uma batalha estoura entre eles. Enquanto lutavam, uma horda de zumbis os atacou e matou todos os que restaram. Stuhlinger é um dos poucos a escapar. Richtofen e Maxis são deixados sem ninguém para se comunicar perto de Green Run, onde o primeiro dispositivo de polarização deve ser construído."
+      "date": "AUGUST 15TH, 2029",
+      "event": "A broadcast is sent out confirming the fall of \"The Flesh\" and Maxis' followers. With each group hearing the voice of Richtofen or Maxis, a battle broke out between them. As they fought, a zombie horde moved in and destroyed all who remained. Stuhlinger is one of the few to escape. Richtofen and Maxis are left with no one to communicate near Green Run, where the first polarization device must be constructed."
     },
     {
-      "date": "13 de Outubro, 2035",
-      "event": " Stuhlinger se esbarra em Russman, que roubou um ônibus de um complexo abandonado da Broken Arrow."
+      "date": "OCTOBER 13TH, 2035",
+      "event": "Stuhlinger bumps into Russman, who has stolen a bus from an abandoned Broken Arrow facility."
     }
   ],
   "42": [
     {
-      "date": "21 de outubro, 2035 - TRANZIT",
-      "event": "Stuhlinger e Russman acabam encontrando com Marlton e Abigail “Misty”  Briarton em um restaurante perto do complexo de Hanford. Maxis pede que eles completem o dispositivo de polarização a seu favor. Stuhlinger, tendo consumido carne de zumbi, é contactado por Richtofen, que ordena Stuhlinger a construir o dispositivo para ele em seu lugar. A tripulação constrói o dispositivo para Maxis. Os quatro se tornariam conhecidos como Victis."
+      "date": "OCTOBER 21ST, 2035 - TRANZIT",
+      "event": "Stuhlinger and Russman run into Marlton and Abigail \"Misty\" Briarton at a diner near the Hanford Site facility. Maxis asks them to complete the polarization device in his favor. Stuhlinger, having consumed zombie meat, is contacted by Richtofen, who orders Stuhlinger to construct the device for him instead. The crew constructs the device for Maxis. The four would become known as Victis."
     },
     {
-      "date": "22 de Outubro, 2035 - DIE RISE",
-      "event": "Ainda com esperanças de recuperar o controle, Richtofen teletransporta Victis para a Província 22, onde ele exige que Stuhlinger ative o segundo dispositivo de polarização. Mais uma vez, eles ajudam Maxis. As vozes cessam por algum tempo, deixando Victis vagando pela terra."
+      "date": "OCTOBER 22ND, 2035 - DIE RISE",
+      "event": "Still hoping to regain control, Richtofen teleports Victis to Province 22, where he demands that Stuhlinger activate the second polarization device. Once again, the crew sides with Maxis. The voices cease for some time, leaving Victis to wander the earth."
     }
   ],
   "43": [
     {
-      "date": "31 de Dezembro, 2035 - BURIED",
-      "event": "Victis chega a uma cidade de velho oeste situada agora abaixo de uma base de mineração em Angola. Eles descobrem Arthur em uma cela de prisão; Ele os auxilia em sua jornada. As vozes de Maxis e Richtofen retornam. Victis ativam o dispositivo de polarização final a favor de Maxis. Ele, agora corrompido pelo Dark Aether, revela suas intenções verdadeiras a Victis e pune Richtofen prendendo sua alma em um zumbi. Trazida à Agartha por seu Pai, Samantha testemunha o mal que o corrompeu. Quando uma fenda abre na Dimensão 63 em 1918, ela vai em busca de ajuda do Maxis desta dimensão."
+      "date": "DECEMBER 31ST, 2035 - BURIED",
+      "event": "Victis arrives at an old western town now located beneath a mining facility in Angola. They discover Arthur in a jail cell; he assists them on their journey. The voices of Maxis and Richtofen return. They activate the final polarization device in Maxis' favor. Now corrupted by the Dark Aether, he reveals his true intentions to Victis and punishes Richtofen by trapping his soul in a zombie. Drawn into Agartha by her Father, Samantha witnesses the evil that has corrupted him. When a rift opens in Dimension 63 in 1918, she reaches out to that timeline's Maxis for help."
     },
     {
-      "date": "10 de Janeiro, 2036",
-      "event": "Richtofen instrui o zumbi Richtofen a perseguir Victis e recuperar seus frascos de sangue."
+      "date": "JANUARY 10TH, 2036",
+      "event": "Richtofen instructs undead Richtofen to pursue Victis and recover their blood vials."
     }
   ],
   "44": [
     {
-      "date": "19 de Janeiro, 2036",
-      "event": "Primis Richtofen começa a manipular Stuhlinger, abrindo uma fenda para Victis começar sua nova jornada. Perseguidos pelo zumbi Richtofen e um exército de mortos-vivos, Victis entra na fenda."
+      "date": "JANUARY 19TH, 2036",
+      "event": "Primis Richtofen begins to manipulate Stuhlinger, opening a rift for Victis to begin their new journey. Pursued by undead Richtofen and an army of the undead, Victis enters the rift."
     },
     {
-      "date": "19 de Janeiro, 2036",
-      "event": "Maxis destroi a terra e todos os seus habitantes."
+      "date": "JANUARY 19TH, 2036",
+      "event": "Maxis destroys Earth and all its surviving inhabitants."
     },
     {
-      "date": "DIMENSÃO 63",
+      "date": "DIMENSION 63",
       "event": ""
     },
     {
-      "date": "15 de Janeiro, 1292",
-      "event": "A Grande Guerra entre a humanidade e os Apothicon começa."
+      "date": "JANUARY 15TH, 1292",
+      "event": "The great war between humanity and the Apothicon begins."
     }
   ],
   "45": [
     {
-      "date": "14 de Abril, 1294",
-      "event": "Sir Pablo Marinus é salvo das garras de um Margwa por quatro heróis desconhecidos. Mais tarde eles se tornariam conhecidos como Primis."
+      "date": "APRIL 14TH, 1294",
+      "event": "Sir Pablo Marinus is saved from the clutches of a Margwa by four unknown heroes. They would later become known as Primis."
     },
     {
-      "date": "31 de Dezembro, 1299",
-      "event": "Juntamente com os Keepers, Primis derrota os Apothicons, trazendo um fim a grande guerra."
+      "date": "DECEMBER 31ST, 1299",
+      "event": "Together with the Keepers, Primis defeats the Apothicon, bringing the great war to an end."
     },
     {
-      "date": "1 de Janeiro, 1300",
-      "event": "Antes de desaparecerem da história, Primis instrui o Rei Lobo a construir Der Eisendrache."
+      "date": "JANUARY 1ST, 1300",
+      "event": "Before they seemingly disappear from history, Primus instructs the wolf King to begin building Der Eisendrache."
     },
     {
-      "date": "18 de Fevereiro, 1300",
-      "event": "Pablo começa a documentar a Grande Guerra, incluindo tudo o que aprendeu sobre os Keepers, Apothicons e o Elemento 115. Sobre o poder do Elemento 115, ele escreve que um local no norte da França contém depósitos maciços do elemento."
+      "date": "FEBRUARY 18TH, 1300",
+      "event": "Pablo begins documenting the Great War, including all he has learned about the Keepers, Apothicons, and Element 115. Regarding Element 115’s power, he notes that a site in Northern France contains massive deposits of the element."
     }
   ],
   "46": [
     {
-      "date": "4 de Junho, 1300",
-      "event": "No norte da França, um túmulo é construído para homenagear os soldados caídos da Grande Guerra. Dentro dele, as estátuas de Primis são construídas para simbolizar a esperança de que se um dia um grande mal cair sobre a humanidade, eles retornarão."
+      "date": "JUNE 4TH, 1300",
+      "event": "In Northern France, a tomb is constructed to honor the fallen soldiers of The great War. Within it, statues of Primis are constructed to symbolize the hope that if one day a great evil falls upon mankind, they may return."
     },
     {
-      "date": "17 de Julho, 1898",
-      "event": "Os pais de Edward Richtofen morrem."
+      "date": "JULY 17TH, 1898",
+      "event": "Edward Richtofen’s parents die."
     },
     {
-      "date": "20 de Fevereiro, 1905",
-      "event": "Takeo Masaki luta na batalha de Mukden."
+      "date": "FEBRUARY 20TH, 1905",
+      "event": "Takeo Masaki fights the battle of Mukden."
     },
     {
-      "date": "11 de Agosto, 1906",
-      "event": "Richtofen começa seus estudos na universidade de Heidelberg sob a tutela do doutor Ludvig Maxis. Tendo perdido seus pais, Richtofen passa a vê-lo como uma figura paterna."
+      "date": "AUGUST 11TH, 1906",
+      "event": "Richtofen begins his studies at Heidelberg University under the tutelage of Doctor Ludvig Maxis. Having lost his parents, Richtofen comes to view him as a father figure."
     },
     {
-      "date": "3 de Julho, 1912",
-      "event": "Richtofen e Maxis se juntam ao Grupo 935."
+      "date": "JULY 3RD, 1912",
+      "event": "Richtofen and Maxis join group 935."
     }
   ],
   "47": [
     {
-      "date": "4 de Junho, 1914",
-      "event": "Richtofen é visitado por outra versão de si mesmo. Entregando-lhe frascos de sangue, ele explica – “você vai precisar deste sangue. Quando chegar a hora, ele irá protegê-lo” Antes de voltar atrás através da fenda."
+      "date": "JUNE 4TH, 1914",
+      "event": "Richtofen is visited by another version of himself. Handing him some blood vials, he explains - \"you will need this blood. When the time comes, it will protect you.\" before stepping back through the rift."
     },
     {
-      "date": "5 de Janeiro, 1915",
-      "event": "Maxis inventa o protótipo Mauser."
+      "date": "JANUARY 5TH, 1915",
+      "event": "Maxis invents the Mauser Prototype."
     },
     {
-      "date": "28 de Agosto, 1916",
-      "event": "O Diário de Sir Pablo Marinus, cavaleiro da grande guerra, é descoberto pelo grupo 935."
+      "date": "AUGUST 28TH, 1916",
+      "event": "The Journal of Sir Pablo Marinus, knight of the great war, is discovering by group 935."
     },
     {
-      "date": "23 de Março, 1917",
-      "event": "Usando a informação recolhida do diário de Pablo, o Grupo 935 começa a trabalhar em um local da escavação no norte da França, onde descobrem uma série de túmulos subterrâneos."
+      "date": "MARCH 23RD, 1917",
+      "event": "Using information gathered from Pablo’s Journal, group 935 begins work at dig site in northern France, where they discover a series of underground tombs."
     }
   ],
   "48": [
     {
-      "date": "21 de Abril, 1917",
-      "event": "O Grupo 935 descobre o que parece ser a entrada para a câmara principal do túmulo. Eles têm dificuldade para obter acesso."
+      "date": "APRIL 21ST, 1917",
+      "event": "Group 935 discover what appears to be the entrance to the tomb’s main chamber. They struggle to gain access."
     },
     {
-      "date": "11 de Maio, 1917",
-      "event": "Incapaz de acessar a câmara principal, os soldados ouvem um gramofone para aliviar sua frustração. Ao ouvir uma gravação de “La Source Noire”, a entrada para a câmara principal inesperadamente se abre. A exposição do campo ao Elemento 115 começa."
+      "date": "MAY 11TH, 1917",
+      "event": "Unable to access the main chamber, soldiers listen to a gramophone to alleviate their frustration when listening to a recording of \"La Source Noire\", the entrance to the main chamber unexpectedly opens. The camp’s exposure to Element 115 begins."
     },
     {
-      "date": "21 de Maio, 1917",
-      "event": "Usando informações do diário de Pablo e da câmara principal do túmulo, Maxis desenha diagramas para a criação de quatro Elemental Staffs e instrui Richtofen a começar a sua construção."
+      "date": "MAY 21ST, 1917",
+      "event": "Using information from Pablo’s journal and the tomb’s main chamber, Maxis draws schematics for the creation of four Elemental Staffs and instructs Richtofen to begin their construction."
     }
   ],
   "49": [
     {
-      "date": "29 de Maio, 1917",
-      "event": "Quanto mais Maxis lê sobre a Grande Guerra, mais ele começa a questionar sua compreensão do mundo científico, e a verdadeira natureza do próprio universo. Ele “se encontra aberto à possibilidade de um poder superior...”. "
+      "date": "MAY 29TH, 1917",
+      "event": "The more Maxis reads of the great war, the more he begins to question his understanding of the scientific world, and the true nature of the universe itself. He \"finds himself open to the possibility of a higher power…\""
     },
     {
-      "date": "11 de Junho, 1917",
-      "event": "Ao fazer experiências com Elemento 115, o Grupo 935 consegue com sucesso criar “campos de energia localizada que parecem funcionar como portais”. Notando que  objetos podem passar por eles, Maxis especula que as fendas podem ter aberto portais no espaço e tempo. As fendas permitem que Samantha alcance Maxis de Agartha. Ela implora por sua ajuda e, finalmente, revela que ela é sua filha."
+      "date": "JUNE 11TH, 1917",
+      "event": "As group 935 experiments with Element 115, they successfully create create \"localized energy fields which appear to function as portals,\" Nothing that objects can pass through them, Maxis speculates that he rifts may have have opened gateways across space and time. The rifts allow Samantha to reach out to Maxis from Agartha. She begs for his help and ultimately reveals she is his daughter."
     },
     {
-      "date": "15 de junho, 1917",
-      "event": "Uma “caixa antiga” com o poder de manifestar armas de diferentes eras chega através de um portal. Maxis teme que o Elemento 115 esteja distorcendo o espaço-tempo contínuo."
+      "date": "JUNE 15TH, 1917",
+      "event": "An \"ancient box\" with the power of manifest weapons from different eras arrives through a portal. Maxis fears that Element 115 is disrupting the space time continuum."
     }
   ],
   "50": [
     {
-      "date": "1 de Julho, 1917",
-      "event": "Após a instalação de geradores movidos pelo Elemento 115, surgem relatos sobre “figuras antigas emergindo” do local da escavação, assim como relatos de mortes misteriosas de vários soldados do Grupo 935. As figuras antigas são cavaleiros mortos-vivos da Grande Guerra."
+      "date": "JULY 1ST, 1917",
+      "event": "Following the installation of Element 115 powered generators, reports surfaced regarding \"ancient figures emerging\" from the dig site, corresponding with the mysterious deaths of a number of group 935 soldiers. The ancient figures are undead knights from the Great War."
     },
     {
-      "date": "3 de Agosto, 1917",
-      "event": "Nikolai Belinski é exilado."
+      "date": "AUGUST 3RD, 1917",
+      "event": "Nikolai Belinski is sent into exile."
     },
     {
-      "date": "10 de Setembro, 1917",
-      "event": "Usando o Elemento 115, o Grupo 935 constrói os robôs Freya, Odin e Thor - gigantes que segundo eles, garantirão a vitória para as Potências Centrais."
+      "date": "SEPTEMBER 10TH, 1917",
+      "event": "Using Element 115, group 935 constructs Freya, Odin, and Thor - giant robots who they believe will secure victory for the Central Powers."
     },
     {
-      "date": "22 de Setembro, 1917",
-      "event": "Richtofen observa que, apesar do progresso do Grupo 935 no local da escavação, ele está preocupado com a crescente obsessão de Maxis com o diário de Pablo."
+      "date": "SEPTEMBER 22ND, 1917",
+      "event": "Richtofen notes that inspite group 935’ progress at the dig site he is troubled by Maxis’ growing obsession with Pablo’s diary."
     }
   ],
   "51": [
     {
-      "date": "6 de Outubro 1917",
-      "event": "Takeo Masaki é despachado para a França pelo Imperador para coletar informações sobre a tecnologia de armas do Grupo 935."
+      "date": "OCTOBER 6TH, 1917",
+      "event": "Takeo Masaki is dispatched to France by the Emperor to gather intel on group 935’s weapon technology."
     },
     {
-      "date": "19 de Novembro, 1917",
-      "event": "Após relatos de “um protótipo de armamento blindado ... luzes estranhas no céu ... uma praga misteriosa ... e até mesmo homens de metal gigante”,Tank Dempsey é enviado ao norte da França para avaliar a extensão das capacidades do Grupo 935."
+      "date": "NOVEMBER 19TH, 1917",
+      "event": "Following reports of \"prototype armored weaponry…strange lights in the sky… a mysterious plague… and even giant metal men,\" Tank Dempsey is deployed in northern France to assess the extent of group 935’s capabilities."
     },
     {
-      "date": "10 de Dezembro, 1917",
-      "event": "Já exilado na Europa, Nikolai recebe novas ordens do Exército Imperial Russo para investigar a “maquina de guerra” do inimigo. Ainda fiel à pátria, ele segue para a França."
+      "date": "DECEMBER 10TH, 1917",
+      "event": "Already exiled in Europe, Nikolai receives new orders from the Imperial Russian Army to investigate the enemy \"War Machine.\" Still loyal to the motherland, he willing obliges."
     },
     {
-      "date": "23 de Fevereiro, 1918",
-       "event": "Nikolai escreve sobre a guerra civil em curso em sua terra natal. Ele não espera que a paz dure muito tempo, mas ele está gostando seu tempo na França…"
+      "date": "FEBURARY 23RD, 1918",
+      "event": "Nikolai writes of the ongoing civil war in his homeland. He does not expect peace to last long, but is he enjoying his time in France…"
     }
   ],
   "52": [
     {
-      "date": "2 de Março, 1918",
-      "event": "Sabendo que o Imperador deseja encontrá-lo para discutir uma “questão de grande importância para a nossa Nação”, Takeo escreve que ele sente um “crescente senso de angústia”, resultado de seus recentes sonhos escuros e distorcidos."
+      "date": "MARCH 2ND, 1918",
+      "event": "Learning that the Emperor wishes to meet him to discuss a \"matter of great importance to our Nation,\" Takeo writes that he feels a \" growing sense of dread\" in the wake of his recent dark, twisted dreams."
     },
     {
-      "date": "14 de Abril, 1918",
-      "event": "Apesar das batalhas em curso, Dempsey se sai bem no norte da França. Em uma carta pessoal, ele revela que o exército japonês e russo também enviaram espiões para investigar as atividades do Grupo 935."
+      "date": "APRIL 14TH, 1918",
+      "event": "Despite ongoing battles, Dempsey fares well in northern France. In a personal letter, he reveals that both the Japanese and Russian Armies have also sent spies to investigate the activities of group 935."
     },
     {
-      "date": "1 de Maio, 1918",
-      "event": "Maxis está obcecado com a voz de Samantha, que agora fala com ele constantemente. Ele acredita que ela é a “chave para tudo”."
+      "date": "MAY 1ST, 1918",
+      "event": "Maxis is obsessed with the voice of Samantha, who now speaks to him constantly. He believes her to be \"the key to everything.\""
     }
   ],
   "53": [
     {
-      "date": "12 de Maio, 1918",
-      "event": "Acreditando que seu mentor foi afetado pelo elemento 115 como outros no local da escavação, Richtofen relata o comportamento errático de Maxis aos seus superiores do Grupo 935."
+      "date": "MAY 12TH, 1918",
+      "event": "Believing that his mentor has been affected by Element 115 like other at the dig site, Richtofen reports Maxis’ erratic behavior to group 935’s senior staff."
     },
     {
-      "date": "13 de Maio, 1918",
-      "event": "Richtofen aprende com o diário de Pablo que o local de escavação do norte da França pode ser o maior depósito de Elemento 115 na Terra. Ele acredita que isso explica por que ele tem afetado muitos no local."
+      "date": "MAY 13TH, 1918",
+      "event": "Richtofen learns from Pablo’s journal that the northern France dig site may be the single largest deposit of element 115 on Earth. He believes this explains why it has affected so many at the site."
     },
     {
-      "date": "14 de Maio, 1918",
-      "event": "Agora completamente consumido pela voz de Samantha, Maxis jura que ele não servirá mais ao Grupo 935."
+      "date": "MAY 14TH, 1918",
+      "event": "Now completely consumed by Samantha’s voice, Maxis swears he will no longer serve group 935’s mission."
     }
   ],
   "54": [
     {
-      "date": "4 de Junho, 1918 - ORIGINS",
-      "event": "O Elemento 115 desperta os cavaleiros mortos-vivos da Grande Guerra, que rapidamente destroem o acampamento. Maxis se torna catatônico devido ao efeito do elemento, e antes que ele vire um zumbi, Richtofen remove seu cérebro. Dempsey, Nikolai e Takeo unem-se com Richtofen no campo de batalha e ajudam Samantha a se libertar de seu aprisionamento em Agartha. Primis foi reunido. Samantha envia Primis para o seu próximo destino. O cérebro de Maxis chega em Agartha e o doutor Monty decide intervir. Monty traz o cérebro de Maxis à Casa e remove o Maxis corrompido pelo Dark Ather da existencia."
+      "date": "JUNE 4TH, 1918 - ORIGINS",
+      "event": "Element 115 awakens the undead knights from the Great war and quickly consumes the camp. Maxis is rendered catatonic by the the element, Richtofen removes his brain before he turns. Dempsey, Nikolai, and Takeo unite with Richtofen on the battlefield and help free Samantha from her imprisonment in Agartha. Primis has been reunited. Samantha send Primis to their next destination. Maxis’ brain arrives in Agartha and Doctor Monty decides to step in. Monty brings Maxis’ brain to the house and wipes Maxis corrupted by Dark Aether form existence."
     },
     {
       "date": "MOB OF THE DEAD",
       "event": ""
     },
     {
-      "date": "18 de Julho, 1922",
-      "event": "Salvatore “Sal” DeLuca abre casas de apostas em Chicago. Isso marca o início da carreira de crimes da família Deluca."
+      "date": "JULY 18TH, 1922",
+      "event": "Salvatore \"Sal\" DeLuca opens gambling houses across Chicago. This marks the beginning of the Deluca crime family."
     }
   ],
   "55": [
     {
-      "date": "17 de Fevereiro, 1923",
-      "event": "Billy Bonitão se junta à família Deluca como um assassino. Sal passa a ver Billy como o filho que ele nunca teve."
+      "date": "FEBRUARY 17TH, 1923",
+      "event": "Billy handsome joins the Deluca crime family as a hitman. Sal will come to look at Billy as the son he never had."
     },
     {
-      "date": "18 de Setembro, 1923",
-      "event": "Um especialista em jogos e armação de eventos esportivos, Michael “Finn” O'leary começa a trabalhar para Sal."
+      "date": "SEPTEMBER 18TH, 1923",
+      "event": "An expert in gambling and rigging sporting events, Michael \"Finn\" O’leary begins working for Sal."
     },
     {
-      "date": "23 de Março, 1924",
-      "event": "Finn casa com Angelina Bow, uma estrela aspirante com delírios de grandeza."
+      "date": "MARCH 23RD, 1924",
+      "event": "Finn marries Angelina Bow, an aspiring starlet with delusions of grandeur."
     },
     {
-      "date": "1 de Março, 1929",
-      "event": "Sal escreve sobre sua frustração com a policia de Chicago. Depois de muitos anos de subornos bem-sucedidos com a cidade, fica claro que isso não é mais uma opção."
+      "date": "MARCH 1ST, 1929",
+      "event": "Sal writes of his frustration with \"Chicago's Finest\". After many years of successful bribes with the city, it becomes clear that is no longer an option."
     }
   ],
   "56": [
     {
-      "date": "11 de Maio, 1930",
-      "event": "Sal começa a trabalhar com Albert “Al” Arlington, um associado em Los Angeles conhecido por ser um “mestre de planejamento e roubo a bancos”."
+      "date": "MAY 11TH, 1930",
+      "event": "Sal begins to work with Albert \"Al\" Arlington, an associate in Los Angeles known for being a \"master schemer and bank robber\""
     },
     {
-      "date": "14 de Outubro, 1930",
-      "event": "Finn informa o seu advogado que ele não vai aceitar o divórcio de Angela, dizendo que “ela pode deixar este casamento no dia em que ela deixar esta Terra”."
+      "date": "OCTOBER 14TH, 1930",
+      "event": "Finn informs his lawyer he will not accept divorce from Angela, saying \"she can leave this marriage the day she leaves this Earth\""
     },
     {
-      "date": "11 de Outubro, 1931",
-      "event": "Depois que um assalto em Los Angeles da errado para Sal, Al acorda no hospital."
+      "date": "OCTOBER 11TH, 1931",
+      "event": "After an LA heist for Sal goes wrong, Al wakes up in the hospital."
     },
     {
-      "date": "28 de Outubro, 1931",
-      "event": "No hospital, Al submete “Icarus from Mars” para publicação como uma tira de quadrinhos. É sua terceira tentativa – e é negada novamente."
+      "date": "OCTOBER 28TH, 1931",
+      "event": "While in the hospital, Al submits \"Icarus from Mars\" for publication as a comic strip. It is his third attempt - it is denied again."
     }
   ],
   "57": [
     {
-      "date": "11 de Novembro, 1931",
-      "event": "Irritado e frustrado com seu império em colapso, Sal mata uma prostituta. Já não estando mais disposta a fechar os olhos, a Policía de Chicago o prende."
+      "date": "NOVEMBER 11TH, 1931",
+      "event": "Angry and frustrated with his collapsing empire Sal kills a prostitute. No longer willing to turn a blind eye, Chicago PD arrests him."
     },
     {
-      "date": "1 de Dezembro, 1931",
-      "event": "Em uma operação policial contra a Familia Deluca, Billy é preso por múltiplos homicídios."
+      "date": "DECEMBER 1ST, 1931",
+      "event": "In an operation against the Deluca Crime Family, Billy is arrested for multiple homicides."
     },
     {
-      "date": "19 de Dezembro, 1931",
-      "event": " Em uma operação policial contra a Familia Deluca, Finn é preso pela policía de Chicago quando sua esposa oferece provas contra ele."
+      "date": "DECEMBER 19TH, 1931",
+      "event": "In an operation against the Deluca Crime Family, Finn is arrested by Chicago PD when his wife offers evidence against him."
     },
     {
-      "date": "19 de Janeiro, 1932",
-      "event": "Al é preso pela sua participação no roubo em Los Angeles."
+      "date": "JANUARY 19TH, 1932",
+      "event": "Al is arrested for his role in the LA heist."
     },
     {
-      "date": "14 de Maio, 1932",
-      "event": "Sal é considerado culpado de assassinato. Ele é condenado à prisão perpétua em Alcatraz."
+      "date": "MAY 14TH, 1932",
+      "event": "Sal is found guilty of murder. He is sentenced to life in prison at Alcatraz."
     }
   ],
   "58": [
     {
-      "date": "16 de Maio, 1932",
-      "event": "Billy é considerado culpado por 116 assassinatos. Ele é condenado à prisão perpétua em Alcatraz."
+      "date": "MAY 16TH, 1932",
+      "event": "Billy is found guilty 116 counts of murder. He is sentenced to life in prison at Alcatraz."
     },
     {
-      "date": "30 de Maio, 1932",
-      "event": "Finn é considerado culpado de 16 acusações de fraude de jogos de azar. Ele cumprirá sua sentença em Alcatraz."
+      "date": "MAY 30TH, 1932",
+      "event": "Finn is found guilty of 16 counts of gambling fraud. He will serve his sentence at Alcatraz."
     },
     {
-      "date": "13 de Junho, 1932",
-      "event": "Sal e Billy chegam à Ilha de Alcatraz."
+      "date": "JUNE 13TH, 1932",
+      "event": "Sal and Billy arrive at Alcatraz Island."
     },
     {
-      "date": "30 de Junho, 1932",
-      "event": "Finn chega à Ilha de Alcatraz."
+      "date": "JUNE 30TH, 1932",
+      "event": "Finn arrives at Alcatraz Island."
     },
     {
-      "date": "1 de Julho, 1932",
-      "event": "Al é considerado culpado de roubo em larga escala, roubo de carros, incêndio criminoso e conspiração. Ele cumprirá sua sentença em Alcatraz."
+      "date": "JULY 1ST, 1932",
+      "event": "Al is found guilty of grand larceny, grand theft auto, arson, conspiracy and battery. He will serve his sentence at Alcatraz."
     },
     {
-      "date": "3 de Agosto, 1932",
-      "event": "Al chega à Ilha de Alcatraz."
+      "date": "AUGUST 3RD, 1932",
+      "event": "Al arrives at Alcatraz Island."
     }
   ],
   "59": [
     {
-      "date": "1 de Janeiro, 1933",
-      "event": "Stanley Ferguson começa a trabalhar na ilha de Alcatraz."
+      "date": "JANURARY 1ST, 1933",
+      "event": "Stanley Ferguson begins working at Alcatraz Island."
     },
     {
-      "date": "1 de Abril, 1933",
-      "event": "Al convence Sal, Finn, e Billy de que eles podem construir um avião e escapar de Alcatraz."
+      "date": "APRIL 1ST, 1933",
+      "event": "Al convinces Sal, Finn, and Billy that they can build a plane and escape Alcatraz."
     },
     {
-      "date": "2 de Dezembro, 1933",
-      "event": "Percebendo que o avião nunca será concluído e cheios de raiva, Sal, Finn e Billy planejam sua vingança contra Al."
+      "date": "DECEMBER 2RD, 1933",
+      "event": "Realizing the plane will never be completed and embittered with rage, Sal, Finn and Billy plot to get revenge on Al."
     },
     {
-      "date": "31 de Dezembro, 1933",
-      "event": "Finn, Sal e Billy atraem Al para o telhado e o matam."
+      "date": "DECEMBER 31ST, 1933",
+      "event": "Finn, Sal and Billy lure Al to the roof and kill him."
     },
     {
-<<<<<<< HEAD
-      "date": "MOB OF THE DEAD",
-      "event": "Sal, Finn, Billy e Al lutam contra ondas de mortos-vivos enquanto se encontram presos em um ciclo aparentemente interminável."
-    },
-    {
-      "date": "11 de janeiro, 1934",
-      "event": "Chegando por uma fenda, Richtofen adquire as amostras de sangue de Sal e Finn."
-=======
       "date": "JANUARY 11TH, 1934",
       "event": "Stepping through a rift, Richtofen secures the blood samples of Sal and Finn."
     },
     {
       "date": "JANUARY 19TH, 1934",
       "event": "Found guilty of Al’s murder, Sal, Finn and Billy are executed by electric chair."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "60": [
     {
-<<<<<<< HEAD
-      "date": "19 de janeiro, 1934",
-      "event": "considerados culpados do assassinato de Al, Sal, Finn e Billy são executados na cadeira elétrica."
-=======
       "date": "MOB OF THE DEAD",
       "event": "Sal, Finn, Billy and Al battle waves of undead as they find themselves trapped in a seemingly endless cycle."
->>>>>>> refs/remotes/dtzxporter/master
     },
     {
-      "date": "16 de Abril, 1940",
-      "event": "Richtofen chega na dimensão 63, onde contata membros dos illuminati e alista sua ajuda para construir um complexo de pesquisa abaixo de Alcatraz."
+      "date": "APRIL 16TH, 1940",
+      "event": "Richtofen arrives in Dimension 63, where he contacted members of the illuminati and enlists their help to build a laboratory facility beneath Alcatraz."
     },
     {
-      "date": "18 de Abril, 1940",
-      "event": "Richtofen encontra-se com Stanley Ferguson e convence-o a ajudar com a construção do laboratório em alcatraz."
+      "date": "APRIL 18TH, 1940",
+      "event": "Richtofen meets with Stanley Ferguson and convinces him to assist with the illuminati's construction of the alcatraz laboratory."
     },
     {
-      "date": "3 de Julho, 1941",
-      "event": "Stanley Ferguson relata que o laboratório foi concluído, e que as cobaias serão colocadas nas câmaras de estase quando chegarem. "
+      "date": "JULY 3RD, 1941",
+      "event": "Stanley Ferguson reports that the laboratory has been completed, and that the subjects will be placed in the stasis chambers upon arrival. "
     }
   ],
   "61": [
     {
-      "date": "4 de Julho, 1941",
-      "event": "Richtofen retorna ao laboratório sob Alcatraz onde encontra Victis, chegando da terra vazia com o Kronorium. Ao ler o Kronorium, Richtofen descobre inúmeras linhas cronológicas documentando seus destinos e aprende sobre os frascos de sangue. Ele iria mais tarde escrever na página “Eu sei o que devo fazer - ER 4/7/41”. Richtofen entra numa fenda para adquirir o sangue de Sal e Finn. Depois de entregar o sangue para o seu eu mais novo e recuperar os frascos de sangue pertencentes a Victis, ele retorna. Victis é colocada em câmaras criogênicas, para serem mantidos seguros até que sejam necessários mais uma vez."
+      "date": "JULY 4TH, 1941",
+      "event": "Richtofen returns to the lab under Alcatraz where we meet Victis, arriving from the empty earth with the kronorium. Upon reading the kronorium, Richtofen discovers numerous timelines documenting their fates and learns about the blood vials. He would later write on the page \"I know  what I must do - E.R. 4/7/41.\" Richtofen enters a rift to acquire the blood of Sal and Finn After delivering the blood to his younger self and recovering the blood vials belonging to Victis he returns. Victis is placed ‘on ice’, to be kept safe until they are needed next."
     },
     {
-      "date": "4 de Julho, 1941",
-      "event": "Primis chega para coletar as amostras de sangue de Victis de Richtofen. Após a partida de Primis, Richtofen descobre a localização da Summoning Key e viaja para seu próximo destino."
+      "date": "JULY 4TH, 1941",
+      "event": "Primis arrives to collect the Victis blood samples from Richtofen, Following Primis departure, Richtofen learns the location of the summoning key and travels to his next destination."
     }
   ],
   "62": [
     {
-      "date": "1 de Outubro, 1942",
-      "event": "Stanley Ferguson deixa seu trabalho em Alcatraz."
+      "date": "OCTOBER 1ST, 1942",
+      "event": "Stanley Ferguson leaves employment at Alcatraz."
     },
     {
-      "date": "21 de Outubro, 1943",
-      "event": "Posando como o Sr. Rapt, o Shadowman contrata o Repórter para recuperar artefatos do Pacífico Sul e da Rússia."
+      "date": "OCTOBER 21ST, 1943",
+      "event": "Posing as Mr. Rapt the Shadowman hires the reporter to recover artifacts from the South Pacific and Russia."
     },
     {
-      "date": "14 de Dezembro, 1943",
-      "event": "O Repórter recupera artefatos do Pacífico Sul e Rússia. Entre eles está a Summoning Key."
+      "date": "DECEMBER 14TH, 1943",
+      "event": "The reporter recovers the artifacts from the South Pacific and Russia among them is the Summoning key."
     },
     {
-      "date": "25 de Dezembro, 1943",
-      "event": "De acordo com o pedido do Sr. Rapt, o Repórter fala com Stanley Ferguson, um guarda aposentado de Alcatraz, Stanley dá um relato detalhado das mortes de Al Arlington, Bill Bonitão, Finn O'Leary e Sal Deluca."
+      "date": "DECEMBER 25TH, 1943",
+      "event": "As per Mr. Rapt’s request the reporter speaks to Stanley Ferguson, a retired guard from Alcatraz, Stanley gives a detailed account of the deaths of Al Arlington, Bill handsome, Finn O’Leary and Sal Deluca."
     }
   ],
   "63": [
     {
-      "date": "31 de Dezembro, 1943",
-      "event": "A pedido do Sr. Rapt, o Repórter chega a Morg City para observar a vista, os sons e os cheiros."
+      "date": "DECEMBER 31ST, 1943",
+      "event": "At Mr. Rapt’s request the reporter arrives in Morg City to take in the sights, sounds and smells."
     },
     {
-      "date": "15 de Janeiro, 1943",
-      "event": "Uma chuva de meteoros cai sobre Morg City."
+      "date": "JANUARY 15TH, 1943",
+      "event": "A meteor shower rains over Morg city."
     },
     {
-      "date": "30 de Janeiro, 1944",
-      "event": "O Repórter observa um estranho mofo crescendo em toda a cidade. Ele também observa que as pessoas estão ficando doentes e agindo de forma estranha."
+      "date": "JANUARY 30TH, 1944",
+      "event": "The reporter notes strange mold now growing all over the city. He also notes people are getting sick and acting delirious."
     },
     {
-      "date": "13 de Fevereiro, 1944",
-      "event": "Um vendedor de frutas conta ao Repórter sobre a antiga ordem dos Keepers, e como eles são os únicos segurando as forças do apocalipse. Ele fala de pessoas ouvindo cantaria e rituais... em baixo da cidade."
+      "date": "FEBRUARY 13TH, 1944",
+      "event": "A fruit vender tells the reporter about the ancient order of the keepers, and how they’re the only ones holding back the forces of the apocalypse. He talks of the people hearing chantin... From beneath the city."
     },
     {
-      "date": "30 de Março, 1944",
-      "event": "O Repórter envia ao Sr. Rapt um telegrama fornecendo detalhes e informações de contato para Nero, Jessica Rose, Floyd Campbell e Jack Vincent."
+      "date": "MARCH 30TH, 1944",
+      "event": "The reporter sends Mr. Rapt a telegram providing details and contact information for Nero, Jessica Rose, Floyd Campbell, and Jack Vincent."
     }
   ],
   "64": [
     {
-      "date": "5 de Abril, 1944",
-      "event": "Sabendo das ações do Shadowman, Monty escreve ao Repórter, alertando-o para não dar a Summoning Key a ninguém."
+      "date": "APRIL 5TH, 1944",
+      "event": "Aware of the Shadowman’s actions, Monty writes to the reporter, warning him to not give the summoning key to anyone."
     },
     {
-      "date": "10 de Abril, 1944",
-      "event": "Jessica Rose descobre que um fotógrafo está em posse de fotos comprometedoras dela."
+      "date": "APRIL 10TH, 1944",
+      "event": "Jessica Rose learns a photographer is in possession of compromising pictures of her."
     },
     {
-      "date": "20 de Abril, 1944",
-      "event": "Pretendendo ser um executivo da empresa, o Shadowman diz ao advogado de Nero que a esposa dele tomou empréstimos substanciais em seu nome. Nero tem 15 dias para resolver a situação antes que a empresa busque reparação. Enfrentando várias dívidas devido a hábito de gastos de sua esposa, Nero decide mata-la e obter o seu seguro de vida para pagar a dívida. Fazendo se passar por um oficial de Assuntos Internos, o Shadowman tenta convencer o parceiro de Jack Vincent a admitir que Jack planeja matar o informante que poderia fornecer provas contra ele."
+      "date": "APRIL 20TH, 1944",
+      "event": "Pretending to be a company executive, the Shadowman tells Nero’s Lawyer that Nero’s wife has taken out substantial loans in his name, Nero has 15 days to settle before the company seeks reparation, Facing multiple debts due to his wife’s spending habits, Nero decided to kill his wife and get life insurance to pay off the debt. Masquerading as an Internal Affairs officer, the Shadowman tried to convince Jack Vincent’s partner to admit that Jack plots to kill the snitch who could provide evidence against him."
     }
   ],
   "65": [
     {
-      "date": "20 de Abril, 1944",
-      "event": "O Shadowman se passa por um diretor de cinema interessado em contratar Jessica para um papel de protagonista. Ele diz a sua produtora que a parte é dela. Com medo de que o fotógrafo possa comprometer sua chance ao estrelato, ela pede que ele a encontre, para que eles possam “resolver as coisas”."
+      "date": "APRIL 20TH, 1944",
+      "event": "The Shadowman poses as a film director interested in hiring Jessica for a leading role. He tells her producer the part is her’s. Afraid that the photographer could jeopardize her chance at stardom, she asks him to meet her, so they can \"sort stuff out\""
     },
     {
-      "date": "20 de Abril, 1944",
-      "event": "Se passando por jornalista, o Shadowman sugere que Floyd Campbell é um “lutador meia boca” para o seu promotor. Querendo garantir sua chance no título, Floyd decide usar um soco inglês sob suas luvas na sua luta com Tony King."
+      "date": "APRIL 20TH, 1944",
+      "event": "Posing as a journalist the Shadowman suggests Floyd Campbell is a \"journeyman fighter\" to Floyd’s Promoter. Wanting to guarantee his shot at the title, Floyd decides to wear brass knuckles under his gloves for his fight with Tony King."
     },
     {
-      "date": "21 de Abril, 1944",
-      "event": "Nero perde um telefonema de seu advogado, informando que os documentos foram falsificados e não há nada com que se preocupar. Jack perde um telefonema de seu sócio que tem contatos nos Assuntos Internos e o assegura que ele não tem nada com que se preocupar. Floyd perde um telefonema de seu promotor dizendo que a luta foi um sucesso e que ele tem uma chance no título."
+      "date": "APRIL 21ST, 1944",
+      "event": "Nero misses a call from his lawyer, informing him the documents were forged and there is nothing to worry about. Jack misses a call from his partner he has his back with internal affairs and has nothing to worry about. Floyd misses a call from his promoter that the fight was a success and that he has a shot at the title."
     }
   ],
   "66": [
     {
-      "date": "21 de Abril, 1944",
-      "event": "Jessica perde um telefonema de seu produtor. Ele diz que não tem uma boa sensação sobre o diretor e que “não deu certo”. No entanto, ele conseguiu um papel de protagonista em um musical que ele e seu parceiro estão financiando."
+      "date": "APRIL 21ST, 1944",
+      "event": "Jessica misses a call from her producer. He says he didn’t have a good feeling about the director and it didn’t work out. However he scored her a lead in a musical he and his partner are financing."
     },
     {
       "date": "APRIL 21ST, 1944",
-      "event": "Jessica mata o fotógrafo e toma posse das fotografias. Jack mata o informante que poderia entrega-lo para à Assuntos Internos. Floyd mata Tony King no combate de boxe e fica com o dinheiro da luta. Nero mata sua esposa em um “acidente de trabalho”, ficando com o dinheiro de sua apólice de seguro para pagar as dívidas."
+      "event": "Jessica kills the photographer and secures the incriminating photographs. Jack Kills the snitch who could turn him over to International Affairs. Floyd kills Tony the King in the boxing match and cash on his winnings. Nero Kills his wife in a \"work accident\", cashing in her life insurance policy to square away the debts."
+    },
+    {
+      "date": "APRIL 21ST, 1944",
+      "event": "Richtofen arrives in Morg City to secure the Summoning Key."
     }
   ],
   "67": [
     {
-      "date": "21 de Abril, 1944",
-      "event": "Richtofen chega a Morg City para se apoderar da Summoning Key."
-    },
-    {
-      "date": "22 de Abril, 1944",
-      "event": "Richtofen descobre que o Repórter tem a Summoning Key e o confronta. O Repórter mostra a carta de Monty a Richtofen e ordena que ele fique longe antes de atacá-lo. Richtofen o mata em defesa própria."
+      "date": "APRIL 22ND, 1944",
+      "event": "Richtofen learns The Reporter has the Summoning Key and confronts him. The Reporter waves Monty’s letter at Richtofen and orders him to stay away before attacking him. Richtofen kills the Reporter in self-defense."
     },
     {
       "img": "<div class='center-img'><img style='width: 225px;height:225px;' src='images/content/summonkey.png'></div>"
@@ -1094,17 +1098,12 @@
   ],
   "68": [
     {
-<<<<<<< HEAD
-      "date": "25 de Abril, 1944 - SHADOWS OF EVIL",
-      "event": "Nero, Jack, Floyd e Jessica são atacados e deixados inconscientes no clube Blake Lake Burlesque. Eles acordam em uma versão distorcida de Morg City, ligeiramente diferente da realidade. Ao serem ditos pelo Shadowman que eles podem se livrar de seus pecados, todos os quatro são manipulados a realizar de rituais. Jessica sacrifica seu produtor, Jack sacrifica seu parceiro, Floyd sacrifica seu promotor, e Nero sacrifica seu advogado. Completando os rituais exigidos, os Apothicons têm acesso à Dimensão 63. Percebendo que foram enganados, os quatro trabalham ao lado dos Keepers para derrotar o Shadowman. Eles o prendem na Summoning Key, mas antes que eles possam entregá-lo aos Keepers, Primis Richtofen chega e a rouba. Richtofen viaja para Dimensão 2210 para adquirir uma alma inocente de si mesmo. Ele leva a alma até a Casa. De dentro da Summoning Key o Shadowman afirma, “Eu verei vocês novamente...”"
-=======
       "date": "APRIL 25TH, 1944 - SHADOWS OF EVIL",
       "event": "Nero, Jack, Floyd and Jessica are knocked unconscious at the Blake Lake Burlesque club. They wake up in a twisted version of Morg City, Shifted slightly from reality. Told they can atone for their sins by the Shadowman, all four are tricked into performing rituals. Jessica sacrifices her producer, Jake sacrifices his partner, Floyd sacrifices his promoter, and Nero sacrifices his lawyer. Completing the required rituals, the Apothicons are given access to Dimension 63. Realizing they’ve been duped, the four work with the Keepers to defeat the Shadowman. They trap him in the summoning key, but before they can hand it over to the Keepers, Primis Rictofen arrives and steals the key. Rictofen travels to Dimension 2210 to secure an innocent Rictofen soul. He delivers the soul to the House. From within the Summoning Key the Shadowman states, \"I’ll be seeing you…\""
     },
     {
       "date": "APRIL 26TH, 1944",
       "event": "The Apothicons destroy Dimension 63."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "69": [
@@ -1113,172 +1112,134 @@
       "event": ""
     },
     {
-      "date": "A SUMMONING KEY",
-      "event": "Os Keepers desenvolvem a Summoning Key. Um dispositivo que lhes permite manipular o Aether. Mantendo o poder de alterar a própria realidade, eles a usam para criar Agartha."
+      "date": "THE SUMMONING KEY",
+      "event": "The keepers crafting the Summoning Key. A device that allows them to manipulate the Aether. Holding power to alter reality itself, they use it to create Agartha."
     },
     {
-      "date": "O PRIMEIRO DISPOSITIVO DE TRANSFERÊNCIA",
-      "event": "Os Keepers dominam a capacidade de viajar entre as Dimensões."
+      "date": "THE FIRST TRANSFERENCE DEVICE",
+      "event": "The Keepers master the ability to travel between Dimensions."
     },
     {
-      "date": "O DARK AETHER",
-      "event": "Alguns Keepers começam a fazer experimentos com o Dark Aether, que corrompe e corroe suas almas. Entre eles está o Shadowman."
+      "date": "THE DARK AETHER",
+      "event": "Some Keepers begin to experiment with the Dark Aether, Which corrupts and corrodes their souls. Among them is the Shadowman."
     },
     {
-      "date": "A PIRÂMIDE DO AETHER",
-      "event": "Os Keepers corrompidos criam a Pirâmide de Aether, um dispositivo capaz de poder absoluto. Um conflito se forma entre eles e os Keepers não contaminados."
+      "date": "THE AETHER PYRAMID",
+      "event": "The corrupted Keepers create the Aether Pyramid, a device capable of absolute power. A Schism forms between them and the keepers untainted by the Dark Aether."
     }
   ],
   "70": [
     {
-      "date": "A GUERRA DE AGARTHA COMEÇA",
-      "event": "A Guerra explode entre os Keepers corrompidos e os não corrompidos."
+      "date": "THE WAR OF AGARTHA BEGINS",
+      "event": "War breaks out between the corrupted and uncorrupted keepers."
     },
     {
-      "date": "A GUERRA DE AGARTHA TERMINA",
-      "event": "Em frente a derrota, os Keepers corruptos escondem a Pirâmide de Aether em uma lua dentro de uma das dimensões recém-descobertas. Depois de banir os Keepers corruptos para o Dark Aether, os Keepers restantes assumem o manto de Guardiões. Presos no Dark Aether, Os Keepers corruptos contorcem e evoluem durante Eons, tornando-se finalmente os Apothicons. Eles desejam, acima de tudo, retornar a Agartha."
+      "date": "THE WAR OF AGARTHA ENDS",
+      "event": "Facing defeat, the Corrupted Keepers hide the Aether Pyramid on a moon within one of the newly discovered dimensions. After banishing the Corrupted Keepers to the Dark Aether beneath creation, the remaining Keepers take on the mantle of Guardians. Trapped in the Dark Aether, The Corrupted Keepers contort and evolve over Eons, ultimately becoming the Apothicans. They desire, above all else, to return to Agartha."
     },
     {
-      "date": "O PRIMEIRO A CHEGAR",
-      "event": "Com a ajuda de Dr. Monty, o Drone Maxis chega à casa em Agartha. Apesar da ausência de sua alma, Monty recria uma manifestação física de sua forma da Dimensão 63."
+      "date": "THE FIRST ARRIVAL",
+      "event": "With Doctor Montys help the Maxis Drone arrives at the house in Agartha. Despite the absence of his soul, Monty recreates a physical manifestation of his Dimension 63 form."
     }
   ],
   "71": [
     {
-      "date": "A CHEGADA DE SAMANTHA",
-      "event": "Monty traz Samantha para a Casa, reunindo-a com a encarnação do seu pai da Dimensão 63."
+      "date": "THE ARRIVAL OF SAMANTHA",
+      "event": "Monty brings Samantha to the House, reuniting her with the Dimension 63 incarnation of the father."
     },
     {
-      "date": "A CORRUPÇÃO DE SAMANTHA",
-      "event": "Sabendo que Samantha esta corrompida pelo Dark Aether, Monty a leva para longe de Maxis e da Casa."
+      "date": "SAMANTHA'S CORRUPTION",
+      "event": "Knowing that Samantha is corrupted by the Dark Aether, Monty takes her away from Maxis and the house."
     },
     {
-      "date": "A SOLIDÃO DE MAXIS",
-      "event": "Sozinho na Casa e sentindo falta de sua filha, Maxis se preocupa se Richtofen terá a coragem de cumprir a promessa que fez todos aqueles anos atrás."
+      "date": "THE ISOLATION OF MAXIS",
+      "event": "Alone in the House and missing his daughter, Maxis worries if Richtofen will have the courage to fulfil the vow he made all those years ago."
     }
   ],
   "72": [
     {
-      "date": "A REDESCOBERTA DA TERRA VAZIA",
-      "event": "Tendo observado Monty por algum tempo, Maxis usa o Teleporter no porão da Casa para estudar e explorar outras dimensões. Entre eles está a Terra Vazia, onde um Maxis alternativo tinha construído a Zero Base, uma instalação que abriga artefatos e réplicas coletadas de uma multidão de diferentes linhas do tempo. No entanto, suas tentativas de manipular a Terra Vazia criam uma realidade muito frágil para ser sustentada."
+      "date": "THE REDISCOVERY OF THE EMPTY EARTH",
+      "event": "Having observed Monty for some time. Maxis uses the Teleporter in the basement of the House to study and explore other dimensions. Among them is the Empty Earth, where an alternate Maxis had constructed Zero Base, a facility that houses artifacts and replicas collected from a multitude of different timelines. However, his attempts to manipulate The Empty Earth create a reality too fragile to be sustained."
     },
     {
-      "date": "A RESTAURAÇÃO DA INOCÊNCIA",
-      "event": "Monty retorna Samantha para Maxis, sua inocência restaurada."
+      "date": "THE RESTORATION OF INNOCENCE",
+      "event": "Monty returns Samantha to Maxis, her innocence restored."
     },
     {
-      "date": "O PLANO DE MONTY",
-      "event": "Monty explica a Maxis que o paradoxo produzido por um multiverso deve ser resolvido. Uma nova realidade pode ser criada - uma livre dos Apothicons -, mas somente se eles tiverem ajuda de almas que viveram e sobreviveram à fratura."
+      "date": "MONTYS PLAN",
+      "event": "Monty explains to Maxis that the paradox wrought by a multiverse must be resolved. A new reality can be created – one free of the Apothicans – but only if they enlist the aid of souls who had lived through and survived the fracturing."
     }
   ],
   "73": [
     {
-      "date": "O KRONORIUM ENCONTRADO",
-      "event": "Entre os artefatos que Maxis coletou na Zero Base, esta um livro antigo conhecido como o Kronorium - uma crônica completa de toda a história e o futuro de toda a realidade. Protegido por vários sistemas de segurança, o complexo só pode ser acessado por aqueles que possuem uma alma..."
+      "date": "THE KRONORIUM SECURED",
+      "event": "Among the Artifacts that Maxis collected in Zero Base, is an ancient book known as the Kronorium – a complete chronicle of the entire history and future of all reality. Protected by various countermeasures, the facility can only be accessed by those possessing a soul…"
     },
     {
-      "date": "A JORNADA DE RICHTOFEN COMEÇA",
-      "event": "Maxis conta a Richtofen seu plano para proteger o Kronorium e localizar a Summoning Key. Ouvindo os ecos de seus outros eus, Richtofen descobre sua conexão com Samuel Stuhlinger e decide usar Victus para adquirir o Kronorium."
+      "date": "RICHTOFENS JOURNEY BEGINS",
+      "event": "Maxis tells Richtofen the plan to secure the Kronorium and locate the Summoning Key. Hearing the echoes of his other selves, Richtofen discovers his connection with Samuel Stuhlinger and decides to use Victus to acquire the Kronorium."
     },
     {
-      "date": "A MANIPULAÇÃO DE STUHLINGER",
-      "event": "Tendo supervisionado a construção de um laboratório sob Alcatraz, Richtofen retorna à Casa onde ele começa a se comunicar com Stuhlinger. Juntos, eles convencem Victus a viajar para uma variedade de locais, a fim de recuperar o Kronorium."
+      "date": "THE MANIPULATION OF STUHLINGER",
+      "event": "Having overseen the construction of a laboratory beneath Alcatraz, Richtofen returns to the house where he begins to communicate with Stuhlinger. Together, they persuade Victus to travel to a variety of locations in order to Recover the Kronorium."
     }
   ],
   "74": [
     {
-      "date": "O KRONORIUM RECUPERADO",
-      "event": "Ao chegar à Base Zero, Victus fornece amostras de sangue que lhes permitem acessar a Terra Vazia e recuperar o Kronorium."
+      "date": "THE KRONORIUM RETRIEVED",
+      "event": "Upon arriving at Zero Base, Victus provides blood samples that allow them to access the Empty Earth and recover the Kronorium."
     },
     {
-      "date": "O SANGUE ADQUIRIDO",
-      "event": "Richtofen recolhe as amostra de sangue de Victus do zumbi Richtofen."
+      "date": "THE BLOOD ACQUIRED",
+      "event": "Richtofen collects the Victus blood sample from Undead Richtofen."
     },
     {
-<<<<<<< HEAD
-      "date": "A CHEGADA DE EDWARD",
-      "event": "Richtofen recolhe a alma inocente de Eddie na Dimensão 2210 e Monty lhe-da uma forma física na Casa."
-=======
       "date": "THE ARRIVAL OF EDWARD",
       "event": "Richtofen collects Eddies innocent soul from Dimension 2210 and Monty gives him a physical form in the House."
->>>>>>> refs/remotes/dtzxporter/master
     },
     {
-      "date": "SAMANTHA CONHECE EDWARD",
-      "event": "Eddie e Samantha se encontram pela primeira vez. Samantha escreve em seu diário que Edward “não gosta de compartilhar brinquedos...”."
+      "date": "SAMANTHA MEETS EDWARD",
+      "event": "Eddie and Samantha meet each other for the first time. Samantha writes in her diary that Edward \"doesn’t like to share toys.\""
     },
     {
-      "date": "A FELICIDADE DAS CRIANÇAS",
-      "event": "Monty traz mais brinquedos para Eddie e Samantha."
+      "date": "THE HAPPINESS OF THE CHILDREN",
+      "event": "Monty Brings Eddie and Samantha more toys."
     }
   ],
   "75": [
     {
-      "date": "A FRAGILIDADE DA MEMORIA",
-      "event": "Maxis observa que teletransporte e viagens entre dimensões podem ter um profundo impacto na mente. Ele teme que a confusão causada pela colisão de memórias passadas, presentes e futuras possa levar ao colapso da própria realidade."
+      "date": "THE FRAGILITY OF MEMORY",
+      "event": "Maxis notes that teleportation and travel between dimensions could have a profound impact on the mind. He fears that the confusion caused by the collision of memories past,present and future could lead to the collapse of reality itself."
     },
     {
-      "date": "A CHEGADA DAS ALMAS",
-      "event": "As almas chegam. Maxis diz a Samantha e Eddie para “deixarem os brinquedos de lado... E ver se as janelas estão trancadas antes de descer para o porão."
+      "date": "THE ARRIVAL OF THE SOULS",
+      "event": "The souls arrive. Maxis tells Samantha and Eddie to “Put the toys away…. And to make sure the windows are locked before they come down to the basement."
     },
     {
-      "date": "A CHEGADA DE PRIMIS",
-      "event": "Agora sem alma, Primis traz a Summoning Key para a casa, onde Maxis acidentalmente liberta o Shadowman, Que por sua vez liberta os Apothicons do Dark Aether. Sem saber que eles seriam eliminados da existência depois de terem cumprido o seu propósito, Primis luta ao lado de Monty em sua batalha final contra o Shadowman."
+      "date": "THE ARRIVAL OF PRIMIS",
+      "event": "Now soulless, Primis brings the summoning key to the house, Where Maxis unwittingly release the Shadowman. Who in turn frees the Apothicons from the Dark Aether. Unaware that they would be wiped from existence once they have served their purpose, Primis battles alongside Monty in his final battle against the Shadowman."
     }
   ],
   "76": [
     {
       "date": "REVELATIONS",
-      "event": "Tendo vencido o Shadowman e os Apothicons, Monty descobre que Primis consumiu o sangue das almas de dimensões que não existem mais. O paradoxo deve ser resolvido."
+      "event": "With the Shadowman and the Apothicons vanquished Monty Discovers that Primis has consumed the blood of souls from dimensions that no longer exist. The paradox must be resolved."
     },
     {
-      "date": "FRATURAS:",
+      "date": "FRACTURES:",
       "event": ""
     },
     {
-<<<<<<< HEAD
-      "date": " Fratura Proditione ",
-      "event": ""
-    },
-    {
-      "date": "12 de Abril, 1942",
-      "event": "Tomada pelos mortos-vivos, o Complexo do Sol Nascente é perdido."
-    },
-    {
-      "date": "8 de Julho, 1942",
-      "event": "Divisão 9 começa a construir a base da Ilha."
-    },
-    {
-      "date": "5 de Novembro, 1942",
-      "event": "Takeo é despachado pelo imperador para supervisionar o trabalho da divisão 9 na Ilha."
-=======
       "date": "DECEPTIO FRACTURE",
       "event": ""
     },
     {
       "date": "OCTOBER 13TH, 1945 - THE GIANT",
       "event": "As a zombie outbreak occurs, Primis Dempsey, Takeo and Nikolai confront Ultimis Richtofen moments after he teleports Maxis and Samantha. As they try to reason with him to wake their counterparts, Primis Richtofen arrives through the teleporter and kills his Ultimis self - triggering fractures across space-time. As Primis fights the undead, Group 935 secure the Dempsey subject and transport him to Der Eisendrache. Primis pursues them in a German Giant."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "77": [
     {
-<<<<<<< HEAD
-      "date": "Fratura Agonia",
-      "event": ""
-    },
-    {
-      "date": "11 de novembro, 1942",
-      "event": "Groph confirma que a Divisão 9 “completou a ressurreição dos animais antigos para a batalha na frente oriental”. Os relatórios sugerem que os espécimes são ainda extremamente perigosos, mas o impasse dos alemães em frente aos russos chegará a um fim graças ao seu envolvimento."
-    },
-    {
-      "date": "2 de Fevereiro, 1943",
-      "event": "A Batalha de Stalingrado não termina. Graças aos avanços tecnológicos em ambos os lados, a Segunda Guerra Mundial continua indefinidamente."
-    },
-    {
-      "date": "6 de Fevereiro, 1943",
-      "event": "A Divisão 9 expande suas experiências para incluir o uso de prisioneiros de guerra, trabalhadores da Divisão 9, aracnídeos e “animais místicos”."
-=======
       "date": "OCTOBER 29TH, 1945",
       "event": "Doctor Groph takes control of Group 935 in Richtofen’s absence, not realizing his fate at the hands of Primis."
     },
@@ -1297,31 +1258,10 @@
     {
       "date": "APRIL 12TH, 1942",
       "event": "Overrun by the undead, the rising Sun Facility is lost."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "78": [
     {
-<<<<<<< HEAD
-      "date": "13 de Fevereiro, 1943",
-      "event": "Trabalhando com Maxis no Complexo Kino, Sophia revela que ela foi atacada pela Cobaia 26."
-    },
-    {
-      "date": "14 de Fevereiro, 1943",
-      "event": "Tendo descoberto que Sophia foi atacada pela Cobaia 26, Maxis a mata e transfere seu cérebro para uma máquina, o Analisador de Inteligência Heurística para Planejamento de Operações Estratégicas(SOPHIA)."
-    },
-    {
-      "date": "15 de Junho, 1943",
-      "event": "Takeo relata ao imperador que o trabalho que está sendo feito na Ilha é “inaceitável”."
-    },
-    {
-      "date": "7 de Julho, 1943",
-      "event": "SOPHIA é transferida para Stalingrado para supervisionar as operações do Grupo 935."
-    },
-    {
-      "date": "16 de Novembro, 1943",
-      "event": "SOPHIA confirma a existência do projeto Rasputin, o Russian Mangler."
-=======
       "date": "JULY 8TH, 1942",
       "event": "Division 9 begins construction of the Island Facility."
     },
@@ -1340,23 +1280,10 @@
     {
       "date": "JUNE 15TH, 1943",
       "event": "Takeo reports to the Emperor the work being done at the Island Facility is \"unacceptable.\""
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "79": [
     {
-<<<<<<< HEAD
-      "date": "11 de Janeiro, 1944",
-      "event": "SOPHIA confirma que o robô gigante russo parou o avanço alemão."
-    },
-    {
-      "date": "3 de Janeiro, 1945",
-      "event": "Os russos usam a pesquisa roubada do Grupo 935 para criar o gigante russo, o Mangler Russo e o Ray Gun Mark 3."
-    },
-    {
-      "date": "4 de Abril, 1945",
-      "event": "SOPHIA declara que a vitória na batalha de Stalingrado está se aproximando e que os Valkyrie Drones foram liberados para localizar quaisquer pontos de resistência e captura-los. Após a liberação de grandes concentrações do elemento 115 pelas forças alemãs, a cidade se torna amplamente povoada por mortos-vivos. Nikolai e seus companheiros continuam a lutar pelo que resta de Stalingrado."
-=======
       "date": "JULY 24TH, 1943",
       "event": "On the orders of the emperor Takeo is taken prisoner by Division 9. He is used as a test subject for their Organic Plant based experiments."
     },
@@ -1371,23 +1298,10 @@
     {
       "date": "OCTOBER 18TH, 1945",
       "event": "Peter Mccain makes his jump into Shi No Numa as a temporal rift opens below him as a result of Primis Universe Fractures, the rift teleports him to Gorod Krovi."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "80": [
     {
-<<<<<<< HEAD
-      "date": "24 de Julho, 1945",
-      "event": "Por ordens do imperador, Takeo é feito prisioneiro pela divisão 9. Ele é usado como uma cobaia em suas experiências com plantas orgânicas."
-    },
-    {
-      "date": "2 de Setembro, 1945",
-      "event": "A Segunda Guerra Mundial continua, Stalingrado se transformou em um conflito triplo entre dragões, máquinas e mortos-vivos. Sem nenhum sobrevivente humano, SOPHIA está agora presa na cidade."
-    },
-    {
-      "date": "2 de Setembro, 1945",
-      "event": "Harvey Yena relata que os dragões provaram ser benéficos para o esforço de guerra em stalingrado. Ele confirma que a pesquisa de Die Glocke continua a explorar o deslocamento de tempo e movimento em todas as dimensões."
-=======
       "date": "AGONIA FRACTURE",
       "event": ""
     },
@@ -1402,23 +1316,10 @@
     {
       "date": "FEBRUARY 2ND, 1943",
       "event": "The Battle of Stalingrad doesn’t end. Thanks to technological advancements on both sides, World War 2 continues indefinitely."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "81": [
     {
-<<<<<<< HEAD
-      "date": "13 de Setembro, 1945",
-      "event": "Cornelius tenta enviar uma transmissão para Peter Mccain, dizendo-lhe para ir ao ponto de encontro no Complexo do Sol Nascente."
-    },
-    {
-      "date": "13 de Outubro, 1945 - THE GIANT",
-      "event": "Enquanto um ataque de zumbis ocorre, Primus Dempsey, Takeo, e Nikolai confrontam Ultimis Richtofen momentos depois dele teletransportar Maxis e Samantha. Eles tentam convence-lo a acordar seus equivalentes. Primis Richtofen chega através do teletransportador e mata seu próprio Ultimis, provocando fraturas no espaço e no tempo. Enquanto Primis luta contra os mortos-vivos, o grupo 935 se apodera de Dempsey e o transporta para Der Eisendrache. Primis persegue-os em um gigante alemão."
-    },
-    {
-      "date": "9 de Outubro, 1945",
-      "event": "Com a sua construção completa, Divisão 9 continua seus projetos na base da Ilha."
-=======
       "date": "FEBRUARY 13TH, 1943",
       "event": "Working with Maxis at the Kino facility, Sophia reveals she was attacked by Subject Two-Six."
     },
@@ -1437,23 +1338,10 @@
     {
       "date": "NOVEMBER 6TH, 1943",
       "event": "SOPHIA confirms the existence of Project Rasputin, the Russian Mangler Soldier."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "82": [
     {
-<<<<<<< HEAD
-      "date": "18 de Outubro, 1945 - ZETSUBOU NO SHIMA",
-      "event": "Primis se apodera da alma de Takeo depois de ajudá-lo a cometer Seppuku. Richtofen leva a equipe para a dimensão 63 para recolher o sangue como uma apólice de seguro. eles retornam à ilha antes de viajar para o seu próximo destino."
-    },
-    {
-      "date": "18 de Outubro, 1945",
-      "event": "Peter Mccain salta de paraquedas sobre Shi No Numa, ao mesmo tempo em que uma fenda temporal abre abaixo dele como resultado das Fraturas causadas por Primis. A fenda o transporta para Gorod Krovi."
-    },
-    {
-      "date": "29 de Outubro, 1945",
-      "event": "Dr. Groph toma o controle do grupo 935 na ausência de Richtofen, sem saber que ele foi morto pelas mãos de Primis."
-=======
       "date": "JANUARY 11TH, 1944",
       "event": "SOPHIA confirms the Russian Gigant Robot has set back the German advance."
     },
@@ -1464,72 +1352,48 @@
     {
       "date": "SEPTEMBER 2ND, 1945",
       "event": "WW2 still rages on. Stalingrad has turned into a three-way conflict between Dragon, machine and the undead. Without any remaining human survivors, SOPHIA is now trapped in the city."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "83": [
     {
-<<<<<<< HEAD
-      "date": "31 de Outubro, 1945",
-      "event": "Resultado de pesadelos e rumores de que Samantha pode estar vagando  a Griffin Station, Groph passa a acreditar que o MPD pode estar corrompendo a estação."
-    },
-    {
-      "date": "5 de Novembro 1945 - DER EISENDRACHE",
-      "event": "Recuperando Dempsey de um foguete a caminho da lua, Richtofen adquire sua alma e revela a Primis sua intenção de consertar as coisas. Primis destrói Griffin Station e a lua."
-    },
-    {
-      "date": "6 de Novembro, 1945",
-      "event": "Vagando através do espaço e do tempo em sua forma surreal, Gersch chega na fratura."
-    },
-    {
-      "date": "6 de Novembro, 1945 - GOROD KROVI",
-      "event": "Primis chega e liberta SOPHIA e adquire a alma de Nikolai. Richtofen teletransporta as almas de Dempsey, Takeo, e Nikolai para Maxis na casa. Monty anuncia sua existência ao Primis pela primeira vez."
-    }
-  ],
-  "84": [
-    {
-      "date": "25 de Abril, 1953",
-      "event": "Enquanto viajavam para Shangri La, o avião de Brock e Gary cai nas montanhas como resultado de um evento atmosférico anormal. Outro efeito secundário de fendas temporais criado por Primis enquanto viajavam para Gorod Krovi."
-=======
       "date": "NOVEMBER 6TH, 1945",
       "event": "Drifting through space and time in his ethereal form, Gersh arrives in the fracture."
     },
     {
       "date": "NOVEMBER 6TH, 1945 - GOROD KROVI",
       "event": "Primis arrives and frees Sophia and acquires Nikolais soul. Richtofen teleports the soul. Richtofen teleports the souls of Dempsey, Takeo, and Nikolai to Maxis at the house. Monty announces his existence to primis for the first time."
->>>>>>> refs/remotes/dtzxporter/master
     },
     {
-      "date": "6 de Novembro, 1963",
-      "event": "Escondido em um armário no Pentágono, Mcnamara registra uma mensagem confirmando que John F. Kennedy, Richard Nixon e Fidel Castro morreram como resultado de um surto de zumbis. Ele morre momentos depois."
+      "date": "APRIL 25TH, 1956",
+      "event": "While travelling to Shangri-La, Brock and Gary’s plane crashes in the mountains as a result of a \"freak atmospheric event\" – another side effect of the Temporal Rifts created Primis while travelling to Gorod Krovi."
+    },
+    {
+      "date": "NOVEMBER 6TH, 1963",
+      "event": "Hiding in a closet at the Pentagon, Mcnamara records a message confirming that John F. Kennedy, Richard Nixon, and Fidel Castro have died as a result of a zombie outbreak. He dies moments later."
     }
   ],
   "84": [
     {
       "date": "TANK DEMPSEY - ULTIMIS",
-      "event": "Tank Dempsey: Herói americano. Entregue-lhe uma arma carregada, uma boa mulher, e algo para atirar e ele está feliz. Enfureça-o e ele rasgará suas entranhas para fora e usará elas como bandoleira. Dempsey foi selecionado para esta missão depois que ele mostrou sua capacidade durante a Batalha de Peleliu. Por mais notável que possa parecer, sua unidade foi capturada durante os primeiros ataques antes da invasão principal, e ele passou 2 semanas em uma gaiola de bambu infestada de ratos, submersa em água infectada com malária. Bem, isso não parou o “Tanque”. Depois de roer o seu caminho através da gaiola, ele então roeu seu caminho através de seus captores armado apenas com um alfinete e sua Medalha de Honra, que ele mantém escondido em várias cavidades do corpo. Agora você sabe que não há nada antes da guerra para Dempsey, e não há nada depois. Existe apenas a lenda de Tank Dempsey, e de como ele vai ganhar a guerra por todos nós."
+      "event": "Tank Dempsey: American hero. Hand him a loaded weapon, a good woman, and something to shoot at and he is happy. Enrage him and he will rip your guts out and use them as a bandolier. Dempsey was selected for this mission after he showed his true grit during the Battle of Peleliu. Remarkable though it may seem, his unit was captured during the early raids before the main invasion, and he spent 2 weeks in a rat infested bamboo cage submerged in malarial water. Well that did not stop The Tank. After he gnawed his way through the cage, he then gnawed his way through his captors armed only with a Bobby pin and his Medal of Honor which he keeps secreted in various body cavities. Now you know there is no before the war for Dempsey, and there is no after. There is only the legend of Tank Dempsey, and how he will win the war for the rest of us."
     }
   ],
   "85": [
     {
       "date": "EDWARD RICHTOFEN - ULTIMIS",
-<<<<<<< HEAD
-      "event": "”Cuidado com o doutor” Uma mensagem que foi rabiscada através das paredes de todas as cidades sob o controle alemão. A fome pode aleijar você, a disenteria pode destruir você, e tiros podem rasgar a carne de seus ossos, mas “Cuidado com o médico”. Richtofen, conhecido afetuosamente como “O Carniceiro” por suas vítimas, que gritam em agonia momentos antes dele retirar a luz de suas vidas .Toda a sua carreira, Richtofen tem estado na vanguarda do desenvolvimento de técnicas de extracção de informação e tortura. Richtofen é um sociopata incurável e não vê nenhuma distinção moral entre a morte natural e assassinato, a vítima é a vítima, independentemente de como sua morte se manifesta. O Doutor Richtofen tem uma coleção de bichos de pelúcia, a maioria deles posta em posições de terror, assim como no instante de sua morte."
-=======
       "event": "\"Beware The Doc\". A message that was scrawled across walls of every town under Maxis' control. Starvation may cripple you, dysentery may wreck you, and gunfire may rip the flesh from your bones, but \"Beware the Doctor\". This is Dr. Richtofen, known affectionately as \"The Butcher\" to his victims as they scream in agony moments before he snuffs out their light. All through his career, Richtofen has been at the forefront of torture and information extraction research. Richtofen is an incurable sociopath and sees no moral distinction between natural death and murder; the victim is the victim, regardless of how their demise manifests itself. Doctor Richtofen has a collection of stuffed animals, most of them posed in positions of terror at the instant of their death."
->>>>>>> refs/remotes/dtzxporter/master
     }
   ],
   "86": [
     {
       "date": "NIKOLAI BELINSKI - ULTIMIS",
-      "event": "O próprio Stalin não consegue olhar Nikolai nos olhos, ninguém pode. Nos seus olhos, você verá a alma de um homem ardendo com o ódio de todas as coisas vivas. Seu armário está cheio de esqueletos, muitos deles com a carne ainda presa. No início de sua carreira, Nikolai rapidamente subiu pelas fileiras do partido matando o próximo homem na linha e casando-se politicamente. Em última instância, todas as suas aspirações caíram quando a sua quinta esposa morreu misteriosamente enquanto “limpava o machado com o pescoço”. Mal sabia ele que ela estava dormindo com um alto funcionário do partido. Isso fez Nikolai infame, e sua reputação se espalhou rapidamente pelo partido comunista. Não demorou muito para que Stalin tivesse ouvido falar de Nikolai. Mais importante ainda, sentisse medo de Nikolai. Assim que a guerra começou, nosso herói foi colocado na linha de frente e esquecido, onde ele se afundou na depressão e na vodka por vários anos. Há muitas armas em seu arsenal, nenhuma mais poderosa que seu hálito."
+      "event": "Stalin himself cannot stare Nikolai in the eye, no one can. There, in his eyes, you will see the soul of a man burning with the hatred of all things living. His closet is full of skeletons, many of them with the flesh still attached. Early in his career, Nikolai had quickly made his way up through the party ranks by killing the next man in line, and by marrying politically. Ultimately, his aspirations all came crashing down after his fifth wife mysteriously died while cleaning his axe with her neck. Little did he know that she had been sleeping with a high ranking party official on the side. This made Nikolai infamous, and his reputation spread quickly through the party. It was not long before Stalin himself had heard about Nikolai. More importantly, he feared Nikolai. As soon as the war started, our hero was dropped on the front lines and forgotten about, where he wallowed in self pity and vodka for several years. There are many weapons in his arsenal, not least of which is his breath."
     }
   ],
   "87": [
     {
       "date": "TAKEO MASAKI - ULTIMIS",
-      "event": "Conheça Takeo, para quem a vida não tem sentido se não para aperfeiçoar a sua disciplina e revelar seu verdadeiro caráter e honra. Talvez ele pense nesta e outras questões filosóficas enquanto sua Katana fatia através da carne e tendão de seu inimigo. Nosso herói nasceu em riqueza; Sua dinastia familiar remonta vários séculos, e durante todo esse tempo eles foram Samurais e Bushidos altamente decorados. Takeo não é exceção a esta celebrada linhagem. Sua família já sabia do futuro pródigo de seu filho quando o viu pela primeira aos 5 anos de idade, brincando na rua com sua Katana e cortando as caudas de gatinhos aterrorizados. Era óbvio que ele estava destinado a trazer honra ao nome Masaki. Reservado e reflexivo, a guerra é uma oportunidade perfeita para Takeo explorar seu desejo de sangue e estudar a natureza daqueles menos honrados do que ele. Então se você for vítima de sua ação rápida, saiba que você ajudou um homem melhor do que você a alcançar iluminação."
+      "event": "Enter Takeo, for whom life has no meaning if not to perfect your discipline and to reveal true character and honor. Perhaps he ponders this and other philosophical questions as his Katana slices through the flesh and sinew of his enemy. Our hero was born into wealth; his family dynasty dates back several centuries, and throughout that time they have been highly decorated Samurai and Bushido. Well Takeo is no exception to this celebrated bloodline. Even when the family first saw the young, life-filled 5 year old Takeo playing in the street with his Katana and slicing the tails off terrified kittens. It was obvious he was destined to bring honor to the Masaki name. Reserved and reflective, the war is a perfect opportunity for Takeo to explore his blood lust and study the nature of those less honorable than himself, so if you fall victim to his swift action and might know that you have helped a man better than you reach enlightenment."
     }
   ]
 }
